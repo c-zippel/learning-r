@@ -1,7 +1,11 @@
 # Learning R
+
+## Data Science
   * [Applied Statistics with R](https://daviddalpiaz.github.io/appliedstats/)
   * [R for Data Science](http://r4ds.had.co.nz/)
   * [An Introduction to Statistical Learning with Applications in R](http://www-bcf.usc.edu/~gareth/ISL/)
+
+## Programming
   * [Advanced R](https://adv-r.hadley.nz/)
   * [Efficient R programming](https://csgillespie.github.io/efficientR/)
   * [Tidy evaluation](https://tidyeval.tidyverse.org/)
@@ -12,6 +16,8 @@
   * [purr tutorial](https://jennybc.github.io/purrr-tutorial/index.html)
   * [purr cookbook](http://colinfay.me/purrr-cookbook/)
   * [Getting started with the purr package](https://data.library.virginia.edu/getting-started-with-the-purrr-package-in-r/)
+  
+## Data Carpentry
   * [dplyr: A Grammar of Data Manipulation](https://dplyr.tidyverse.org/index.html)
   * [Row-oriented workflows in R with the tidyverse](https://github.com/jennybc/row-oriented-workflows)
   * [cdata: Fluid Data Transformations](https://winvector.github.io/cdata/)
@@ -20,6 +26,8 @@
   * [Getting data from pdfs using the pdftools package](https://www.brodrigues.co/blog/2018-06-10-scraping_pdfs/)
   * [stringi: String/text processing](http://www.gagolewski.com/software/stringi/)
   * [stringr: Consistent wrappers for common string operations](https://stringr.tidyverse.org/reference/index.html)
+  
+ ## Writing R Packages
   * [Writing R Extensions (CRAN)](https://cran.r-project.org/doc/manuals/R-exts.html)
   * [R Packages](http://r-pkgs.had.co.nz/)
   * [Best practices for API packages](https://cran.r-project.org/web/packages/httr/vignettes/api-packages.html)
@@ -28,6 +36,8 @@
   * [Making R Packages](https://github.com/skirmer/r_packages/blob/master/r_packages_slides.pdf)
   * [R Packages for Team Collaboration](https://github.com/skirmer/odsc2018/blob/master/R_Packages_Collaboration_ODSC.pdf)
   * [Generating Rd files with roxygen2](https://cran.r-project.org/web/packages/roxygen2/vignettes/rd.html)
+  
+## Workflow & Reproducibility
   * [Excuse me, do you have a moment to talk about version control?](https://peerj.com/preprints/3159/)
   * [The Practice of Reproducible Research](https://www.practicereproducibleresearch.org/)
   * [drake: A Pipeline Toolkit for Reproducible Computation at Scale ](https://ropensci.github.io/drake/)
@@ -35,42 +45,61 @@
   * [The "Gold Standard" for Data Science Project Management](https://towardsdatascience.com/the-gold-standard-of-data-science-project-management-13d68c9e85d6)
   * [Project-oriented workflow](https://www.tidyverse.org/articles/2017/12/workflow-vs-script/)
   * [What nobody tells you about documentation](https://www.divio.com/blog/documentation/)
+### Style
   * [R Style Guide](http://adv-r.had.co.nz/Style.html)
   * [The tidyverse Style Guide](https://style.tidyverse.org/)
   * [lintr: Static code analysis for R](https://github.com/jimhester/lintr)
+### Github
   * [GitHub Guides](https://guides.github.com/)
   * [Writing on GitHub](https://help.github.com/categories/writing-on-github/)
   * [The Legal Side of Open Source](https://opensource.guide/legal/)
   * [Happy Git and GitHub for the useR](http://happygitwithr.com/)
+### Markdown
   * [R Markdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown/)
   * [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
   * [Create a Glossary in R Markdown](https://liao961120.github.io/2018/10/24/glossary-maker.html)
+  
+## Cool R Packages
   * [awesome-r: Curated list of R packages ](https://github.com/qinwf/awesome-R)
   * [sf: Simple Features for R](https://r-spatial.github.io/sf/articles/sf1.html)
   * [glue: Interpreted String Literals](https://glue.tidyverse.org/index.html)
   * [naniar: Data Structures, Summaries, and Visualisations for Missing Data](http://naniar.njtierney.com/)
   * [here: A simpler way to find your files](https://walkerke.github.io/tidycensus/)
   * [Ode to the here package](https://github.com/jennybc/here_here)
+  
+## Helpful API Packages
+  * [awesome-r: Curated list of R packages ](https://github.com/qinwf/awesome-R)
+  * [sf: Simple Features for R](https://r-spatial.github.io/sf/articles/sf1.html)
+  * [glue: Interpreted String Literals](https://glue.tidyverse.org/index.html)
+  * [naniar: Data Structures, Summaries, and Visualisations for Missing Data](http://naniar.njtierney.com/)
+  * [here: A simpler way to find your files](https://github.com/r-lib/here)
+  * [Ode to the here package](https://github.com/jennybc/here_here)
   * [tidycensus (also great: creator's blog)](https://walkerke.github.io/tidycensus/)
-  * [ipumsr](https://walkerke.github.io/)
-  * [tigris (also great: creator's blog)](https://github.com/mnpopcenter/ipumsr)
-  * [blsAPI ](https://github.com/walkerke/tigris)
-  * [fredr](https://walkerke.github.io/)
-  * [Tidy spatial data in R: using dplyr, tidyr, and ggplot2 with sf](https://github.com/mikeasilva/blsAPI)
-  * [Drawing beautiful maps programmatically with R, sf and ggplot2](https://sboysel.github.io/fredr/)
-  * [Faceted Graphs with cdata and ggplot2](http://strimas.com/r/tidy-sf/)
-  * [Getting started Stamen maps with ggmap](https://www.r-spatial.org/r/2018/10/25/ggplot2-sf.html)
-  * [multivariate-dot-density](http://www.win-vector.com/blog/2018/10/faceted-graphs-with-cdata-and-ggplot2/)
-  * [Make ggplot2 purrr](https://statisticaloddsandends.wordpress.com/2018/10/25/getting-started-stamen-maps-with-ggmap/)
-  * [Exporting editable plots from R to Powerpoint: making ggplot2 purrr with officer](https://github.com/NYCPlanning/multivariate-dot-density)
-  * [myprettyreport: Export ggplot2 graphs into good-looking PDF files](https://www.brodrigues.co/blog/2017-03-29-make-ggplot2-purrr/)
-  * [Make Beautiful Tables with the Formattable Package](https://www.brodrigues.co/blog/2018-10-05-ggplot2_purrr_officer/)
-  * [knitr: Elegant, flexible, and fast dynamic report generation with R](https://github.com/tarkomatas/myprettyreport)
-  * [mapdeck: Interactive maps using Mapbox GL and Deck.gl](https://www.displayr.com/formattable/)
-  * [r2d3: R Interface to D3 Visualizations](https://yihui.name/knitr/)
-  * [Databases using R Studio](https://github.com/SymbolixAU/mapdeck)
-  * [DBI: R Database Interface](https://rstudio.github.io/r2d3/)
-  * [RPostgreSQL: R Interface to the 'PostgreSQL' Database System](https://db.rstudio.com/)
-  * [Working with Databases](http://r-dbi.github.io/DBI/index.html)
-  * [Tesseract 4: State of the art OCR in R](https://cran.r-project.org/web/packages/RPostgreSQL/)
-  * [Master R shiny: One trick to build maintainable and scaleable event chains](https://nuitrcs.github.io/databases_workshop/r/r_databases.html)
+  * [ipumsr](https://github.com/mnpopcenter/ipumsr)
+  * [tigris (also great: creator's blog)](https://github.com/walkerke/tigris)
+  * [blsAPI ](https://github.com/mikeasilva/blsAPI)
+  * [fredr](https://sboysel.github.io/fredr/)
+  
+## Data Vis Incl. Spatial
+  * [Tidy spatial data in R: using dplyr, tidyr, and ggplot2 with sf](http://strimas.com/r/tidy-sf/)
+  * [Drawing beautiful maps programmatically with R, sf and ggplot2](https://www.r-spatial.org/r/2018/10/25/ggplot2-sf.html)
+  * [Faceted Graphs with cdata and ggplot2](http://www.win-vector.com/blog/2018/10/faceted-graphs-with-cdata-and-ggplot2/)
+  * [Getting started Stamen maps with ggmap](https://statisticaloddsandends.wordpress.com/2018/10/25/getting-started-stamen-maps-with-ggmap/)
+  * [multivariate-dot-density](https://github.com/NYCPlanning/multivariate-dot-density)
+  * [Make ggplot2 purrr](https://www.brodrigues.co/blog/2017-03-29-make-ggplot2-purrr/)
+  * [Exporting editable plots from R to Powerpoint: making ggplot2 purrr with officer](https://www.brodrigues.co/blog/2018-10-05-ggplot2_purrr_officer/)
+  * [myprettyreport: Export ggplot2 graphs into good-looking PDF files](https://github.com/tarkomatas/myprettyreport)
+  * [Make Beautiful Tables with the Formattable Package](https://www.displayr.com/formattable/)
+  * [knitr: Elegant, flexible, and fast dynamic report generation with R](https://yihui.name/knitr/)
+  * [mapdeck: Interactive maps using Mapbox GL and Deck.gl](https://github.com/SymbolixAU/mapdeck)
+  * [r2d3: R Interface to D3 Visualizations](https://rstudio.github.io/r2d3/)
+  
+## Databases in R
+  * [Databases using R Studio](https://db.rstudio.com/)
+  * [DBI: R Database Interface](http://r-dbi.github.io/DBI/index.html)
+  * [RPostgreSQL: R Interface to the 'PostgreSQL' Database System](https://cran.r-project.org/web/packages/RPostgreSQL/)
+  
+## Other Stuff
+  * [Working with Databases](https://nuitrcs.github.io/databases_workshop/r/r_databases.html)
+  * [Tesseract 4: State of the art OCR in R](https://github.com/hadley)
+  * [Master R shiny: One trick to build maintainable and scaleable event chains](https://github.com/walkerke)
