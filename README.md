@@ -61,22 +61,16 @@
   
 ## Cool R Packages
   * [awesome-r: Curated list of R packages ](https://github.com/qinwf/awesome-R)
-  * [sf: Simple Features for R](https://r-spatial.github.io/sf/articles/sf1.html)
+  * [`sf`: Simple Features for R](https://r-spatial.github.io/sf/articles/sf1.html)
   * [glue: Interpreted String Literals](https://glue.tidyverse.org/index.html)
   * [naniar: Data Structures, Summaries, and Visualisations for Missing Data](http://naniar.njtierney.com/)
-  * [here: A simpler way to find your files](https://walkerke.github.io/tidycensus/)
-  * [Ode to the here package](https://github.com/jennybc/here_here)
+  * [here: A simpler way to find your files](https://github.com/r-lib/here) See also [Ode to the here package](https://github.com/jennybc/here_here)
   
 ## Helpful API Packages
-  * [awesome-r: Curated list of R packages ](https://github.com/qinwf/awesome-R)
-  * [sf: Simple Features for R](https://r-spatial.github.io/sf/articles/sf1.html)
-  * [glue: Interpreted String Literals](https://glue.tidyverse.org/index.html)
-  * [naniar: Data Structures, Summaries, and Visualisations for Missing Data](http://naniar.njtierney.com/)
-  * [here: A simpler way to find your files](https://github.com/r-lib/here)
-  * [Ode to the here package](https://github.com/jennybc/here_here)
-  * [tidycensus (also great: creator's blog)](https://walkerke.github.io/tidycensus/)
+
+  * [tidycensus](https://walkerke.github.io/tidycensus/) See also [creator's blog](https://walkerke.github.io/)
   * [ipumsr](https://github.com/mnpopcenter/ipumsr)
-  * [tigris (also great: creator's blog)](https://github.com/walkerke/tigris)
+  * [tigris](https://github.com/walkerke/tigris) See also [creator's blog](https://walkerke.github.io/)
   * [blsAPI ](https://github.com/mikeasilva/blsAPI)
   * [fredr](https://sboysel.github.io/fredr/)
   
@@ -85,7 +79,7 @@
   * [Drawing beautiful maps programmatically with R, sf and ggplot2](https://www.r-spatial.org/r/2018/10/25/ggplot2-sf.html)
   * [Faceted Graphs with cdata and ggplot2](http://www.win-vector.com/blog/2018/10/faceted-graphs-with-cdata-and-ggplot2/)
   * [Getting started Stamen maps with ggmap](https://statisticaloddsandends.wordpress.com/2018/10/25/getting-started-stamen-maps-with-ggmap/)
-  * [multivariate-dot-density](https://github.com/NYCPlanning/multivariate-dot-density)
+  * `[multivariate-dot-density](https://github.com/NYCPlanning/multivariate-dot-density)`
   * [Make ggplot2 purrr](https://www.brodrigues.co/blog/2017-03-29-make-ggplot2-purrr/)
   * [Exporting editable plots from R to Powerpoint: making ggplot2 purrr with officer](https://www.brodrigues.co/blog/2018-10-05-ggplot2_purrr_officer/)
   * [myprettyreport: Export ggplot2 graphs into good-looking PDF files](https://github.com/tarkomatas/myprettyreport)
