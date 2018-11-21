@@ -4,6 +4,8 @@
   * [Applied Statistics with R](https://daviddalpiaz.github.io/appliedstats/)
   * [R for Data Science](http://r4ds.had.co.nz/)
   * [An Introduction to Statistical Learning with Applications in R](http://www-bcf.usc.edu/~gareth/ISL/)
+  * [Geocomputation with R](https://geocompr.robinlovelace.net/)
+  * [R for teams in the data sciences](https://github.com/datascience-uwmadison/R_for_data_sciences)
 
 ## Programming
   * [Advanced R](https://adv-r.hadley.nz/)
@@ -96,3 +98,4 @@
   * [Working with Databases](https://nuitrcs.github.io/databases_workshop/r/r_databases.html)
   * [Tesseract 4: State of the art OCR in R](https://github.com/hadley)
   * [Master R shiny: One trick to build maintainable and scaleable event chains](https://github.com/walkerke)
+  * [Writing scrapers](http://docs.opencivicdata.org/en/latest/scrape/index.html)
