@@ -9,6 +9,7 @@
 
 ## Programming
   * [Advanced R](https://adv-r.hadley.nz/)
+  * [Beyond Exception Handling: Conditions and Restarts](http://adv-r.had.co.nz/beyond-exception-handling.html)
   * [Efficient R programming](https://csgillespie.github.io/efficientR/)
   * [Tidy evaluation](https://tidyeval.tidyverse.org/)
   * [Quoting in R](http://www.win-vector.com/blog/2018/11/quoting-in-r/)
