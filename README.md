@@ -10,6 +10,9 @@
 ## Programming
   * [Advanced R](https://adv-r.hadley.nz/)
   * [Beyond Exception Handling: Conditions and Restarts](http://adv-r.had.co.nz/beyond-exception-handling.html)
+  * [Handling R errors the rlang way](https://www.onceupondata.com/2018/09/28/handling-r-errors/)
+  * [`rlang` Errors, conditions, and backtraces](https://rlang.r-lib.org/reference/index.html#section-errors-conditions-and-backtraces)
+  * [Reducing bewilderment by improving errors](https://www.dropbox.com/s/fi5fswytwatw1kk/condition-erum.pdf)
   * [Efficient R programming](https://csgillespie.github.io/efficientR/)
   * [Tidy evaluation](https://tidyeval.tidyverse.org/)
   * [Quoting in R](http://www.win-vector.com/blog/2018/11/quoting-in-r/)
