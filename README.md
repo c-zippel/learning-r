@@ -1,5 +1,7 @@
 # Learning R
 
+[![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
+
 ## Data Science
   * [Applied Statistics with R](https://daviddalpiaz.github.io/appliedstats/)
   * [R for Data Science](http://r4ds.had.co.nz/)
