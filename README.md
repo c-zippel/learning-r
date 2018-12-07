@@ -6,7 +6,6 @@
   * [Applied Statistics with R](https://daviddalpiaz.github.io/appliedstats/)
   * [R for Data Science](http://r4ds.had.co.nz/)
   * [An Introduction to Statistical Learning with Applications in R](http://www-bcf.usc.edu/~gareth/ISL/)
-  * [Geocomputation with R](https://geocompr.robinlovelace.net/)
   * [R for teams in the data sciences](https://github.com/datascience-uwmadison/R_for_data_sciences)
 
 ## Programming
@@ -66,6 +65,11 @@
   * [R Markdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown/)
   * [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
   * [Create a Glossary in R Markdown](https://liao961120.github.io/2018/10/24/glossary-maker.html)
+### Reporting
+  * [Make Beautiful Tables with the `Formattable` Package](https://www.displayr.com/formattable/)
+  * [`knitr`: Elegant, flexible, and fast dynamic report generation with R](https://yihui.name/knitr/)
+  * [Exporting editable plots from R to Powerpoint: making `ggplot2` `purrr` with `officer`](https://www.brodrigues.co/blog/2018-10-05-ggplot2_purrr_officer/)
+  * [`myprettyreport`: Export ggplot2 graphs into good-looking PDF files](https://github.com/tarkomatas/myprettyreport)
   
 ## Cool R Packages
   * [awesome-r: Curated list of R packages ](https://github.com/qinwf/awesome-R)
@@ -82,19 +86,15 @@
   * [`blsAPI`](https://github.com/mikeasilva/blsAPI)
   * [`fredr`](https://sboysel.github.io/fredr/)
   
-## Data Vis Incl. Spatial
+## Spatial Analysis / Mapping
+  * [Geocomputation with R](https://geocompr.robinlovelace.net/)
   * [Tidy spatial data in R: using `dplyr`, `tidyr`, and `ggplot2` with `sf`](http://strimas.com/r/tidy-sf/)
   * [Drawing beautiful maps programmatically with R, `sf` and `ggplot2`](https://www.r-spatial.org/r/2018/10/25/ggplot2-sf.html)
   * [Faceted Graphs with `cdata` and `ggplot2`](http://www.win-vector.com/blog/2018/10/faceted-graphs-with-cdata-and-ggplot2/)
   * [Getting started Stamen maps with `ggmap`](https://statisticaloddsandends.wordpress.com/2018/10/25/getting-started-stamen-maps-with-ggmap/)
   * [`multivariate-dot-density`](https://github.com/NYCPlanning/multivariate-dot-density)
-  * [Exporting editable plots from R to Powerpoint: making `ggplot2` `purrr` with `officer`](https://www.brodrigues.co/blog/2018-10-05-ggplot2_purrr_officer/)
-  * [`myprettyreport`: Export ggplot2 graphs into good-looking PDF files](https://github.com/tarkomatas/myprettyreport)
-  * [Make Beautiful Tables with the `Formattable` Package](https://www.displayr.com/formattable/)
-  * [`knitr`: Elegant, flexible, and fast dynamic report generation with R](https://yihui.name/knitr/)
   * [`mapdeck`: Interactive maps using Mapbox GL and Deck.gl](https://github.com/SymbolixAU/mapdeck)
-  * [`r2d3`: R Interface to D3 Visualizations](https://rstudio.github.io/r2d3/)
-  
+
 ## Databases in R
   * [Databases using R Studio](https://db.rstudio.com/)
   * [`DBI`: R Database Interface](http://r-dbi.github.io/DBI/index.html)
@@ -103,5 +103,6 @@
 ## Other Stuff
   * [Working with Databases](https://nuitrcs.github.io/databases_workshop/r/r_databases.html)
   * [Tesseract 4: State of the art OCR in R](https://github.com/hadley)
-  * [Master R shiny: One trick to build maintainable and scaleable event chains](https://github.com/walkerke)
+  * [Master R shiny: One trick to build maintainable and scaleable event chains](https://www.statworx.com/de/blog/master-r-shiny-one-trick-to-build-maintainable-and-scalable-event-chains/)
   * [Writing scrapers](http://docs.opencivicdata.org/en/latest/scrape/index.html)
+  * [`r2d3`: R Interface to D3 Visualizations](https://rstudio.github.io/r2d3/)
