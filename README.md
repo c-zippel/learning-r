@@ -41,6 +41,7 @@
   * [What R version do you really need for a package?](https://www.jumpingrivers.com/blog/what-r-version-do-you-really-need-for-a-package/)
   * [Developing R Packages with R Studio](https://support.rstudio.com/hc/en-us/articles/200486488-Developing-Packages-with-RStudio)
   * [Making R Packages](https://github.com/skirmer/r_packages/blob/master/r_packages_slides.pdf)
+  * [R packages primer](https://kbroman.org/pkg_primer/)
   * [R Packages for Team Collaboration](https://github.com/skirmer/odsc2018/blob/master/R_Packages_Collaboration_ODSC.pdf)
   * [Generating Rd files with `roxygen2`](https://cran.r-project.org/web/packages/roxygen2/vignettes/rd.html)
   
