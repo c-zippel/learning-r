@@ -93,6 +93,7 @@
   * [Drawing beautiful maps programmatically with R, `sf` and `ggplot2`](https://www.r-spatial.org/r/2018/10/25/ggplot2-sf.html)
   * [Faceted Graphs with `cdata` and `ggplot2`](http://www.win-vector.com/blog/2018/10/faceted-graphs-with-cdata-and-ggplot2/)
   * [Getting started Stamen maps with `ggmap`](https://statisticaloddsandends.wordpress.com/2018/10/25/getting-started-stamen-maps-with-ggmap/)
+  * [Map Plots Created With R And Ggmap](https://www.littlemissdata.com/blog/maps)
   * [`multivariate-dot-density`](https://github.com/NYCPlanning/multivariate-dot-density)
   * [`mapdeck`: Interactive maps using Mapbox GL and Deck.gl](https://github.com/SymbolixAU/mapdeck)
 
