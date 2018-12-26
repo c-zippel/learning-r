@@ -2,12 +2,15 @@
 
 [![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
 
-## Data Science
+## Data Science / Stats
   * [Applied Statistics with R](https://daviddalpiaz.github.io/appliedstats/)
   * [R for Data Science](http://r4ds.had.co.nz/)
   * [An Introduction to Statistical Learning with Applications in R](http://www-bcf.usc.edu/~gareth/ISL/)
   * [R for teams in the data sciences](https://github.com/datascience-uwmadison/R_for_data_sciences)
-
+  * [Stats with R](https://mgimond.github.io/Stats-in-R/index.html)
+  * [Exploratory Data Analysis in R](https://mgimond.github.io/ES218/index.html)
+  * [Intro to GIS and Spatial Analysis](https://mgimond.github.io/Spatial/index.html) 
+  
 ## Programming
   * [Advanced R](https://adv-r.hadley.nz/)
   * [Beyond Exception Handling: Conditions and Restarts](http://adv-r.had.co.nz/beyond-exception-handling.html)
