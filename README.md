@@ -26,6 +26,7 @@
   * [`purrr` tutorial](https://jennybc.github.io/purrr-tutorial/index.html)
   * [`purrr` cookbook](http://colinfay.me/purrr-cookbook/)
   * [Getting started with the `purrr` package](https://data.library.virginia.edu/getting-started-with-the-purrr-package-in-r/)
+  * [Using tryCatch for robust R scripts](https://rsangole.netlify.com/post/try-catch/)
   
 ## Data Carpentry
   * [`dplyr`: A Grammar of Data Manipulation](https://dplyr.tidyverse.org/index.html)
