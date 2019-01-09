@@ -6,6 +6,7 @@
   * [Applied Statistics with R](https://daviddalpiaz.github.io/appliedstats/)
   * [R for Data Science](http://r4ds.had.co.nz/)
   * [An Introduction to Statistical Learning with Applications in R](http://www-bcf.usc.edu/~gareth/ISL/)
+  * [Introduction to Econometrics with R](https://www.econometrics-with-r.org/)
   * [R for teams in the data sciences](https://github.com/datascience-uwmadison/R_for_data_sciences)
   * [Stats with R](https://mgimond.github.io/Stats-in-R/index.html)
   * [Exploratory Data Analysis in R](https://mgimond.github.io/ES218/index.html)
