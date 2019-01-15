@@ -26,6 +26,7 @@
   * [`purr`: Functional Programming Tools](https://purrr.tidyverse.org/index.html)
   * [`purrr` tutorial](https://jennybc.github.io/purrr-tutorial/index.html)
   * [`purrr` cookbook](http://colinfay.me/purrr-cookbook/)
+  * [Going Off the Map: Exploring purrr's Other Functions](https://hookedondata.org/going-off-the-map/)
   * [Getting started with the `purrr` package](https://data.library.virginia.edu/getting-started-with-the-purrr-package-in-r/)
   * [Using tryCatch for robust R scripts](https://rsangole.netlify.com/post/try-catch/)
   
@@ -106,10 +107,11 @@
   * [Databases using R Studio](https://db.rstudio.com/)
   * [`DBI`: R Database Interface](http://r-dbi.github.io/DBI/index.html)
   * [`RPostgreSQL`: R Interface to the 'PostgreSQL' Database System](https://cran.r-project.org/web/packages/RPostgreSQL/)
+  * [Working with Databases](https://nuitrcs.github.io/databases_workshop/r/r_databases.html)
   
 ## Other Stuff
-  * [Working with Databases](https://nuitrcs.github.io/databases_workshop/r/r_databases.html)
   * [Tesseract 4: State of the art OCR in R](https://github.com/hadley)
   * [Master R shiny: One trick to build maintainable and scaleable event chains](https://www.statworx.com/de/blog/master-r-shiny-one-trick-to-build-maintainable-and-scalable-event-chains/)
   * [Writing scrapers](http://docs.opencivicdata.org/en/latest/scrape/index.html)
   * [`r2d3`: R Interface to D3 Visualizations](https://rstudio.github.io/r2d3/)
+  * [Fundamentals of Data Visualization](https://serialmentor.com/dataviz/)
