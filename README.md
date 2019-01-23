@@ -12,6 +12,7 @@
   * [Exploratory Data Analysis in R](https://mgimond.github.io/ES218/index.html)
   * [Intro to GIS and Spatial Analysis](https://mgimond.github.io/Spatial/index.html) 
   * [The Tentpoles of Data Science](https://simplystatistics.org/2019/01/18/the-tentpoles-of-data-science/)
+  * [R4DS Online Learning Community](https://www.rfordatasci.com/)
   
 ## Programming
   * [Advanced R](https://adv-r.hadley.nz/)
@@ -40,6 +41,7 @@
   * [Getting data from pdfs using the `pdftools` package](https://www.brodrigues.co/blog/2018-06-10-scraping_pdfs/)
   * [`stringi`: String/text processing](http://www.gagolewski.com/software/stringi/)
   * [`stringr`: Consistent wrappers for common string operations](https://stringr.tidyverse.org/reference/index.html)
+  * [A tidyverse cookbook](https://rstudio-education.github.io/tidyverse-cookbook/)
   
  ## Writing R Packages
   * [Writing R Extensions (CRAN)](https://cran.r-project.org/doc/manuals/R-exts.html)
@@ -119,4 +121,5 @@
   * [Writing scrapers](http://docs.opencivicdata.org/en/latest/scrape/index.html)
   * [`r2d3`: R Interface to D3 Visualizations](https://rstudio.github.io/r2d3/)
   * [Fundamentals of Data Visualization](https://serialmentor.com/dataviz/)
+  * [Graphs - Cookbook for R](http://www.cookbook-r.com/Graphs/)
   * [rstudio::conf 2019 materials](https://github.com/kbroman/RStudioConf2019Slides)
