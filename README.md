@@ -119,3 +119,4 @@
   * [Writing scrapers](http://docs.opencivicdata.org/en/latest/scrape/index.html)
   * [`r2d3`: R Interface to D3 Visualizations](https://rstudio.github.io/r2d3/)
   * [Fundamentals of Data Visualization](https://serialmentor.com/dataviz/)
+  * [rstudio::conf 2019 materials](https://github.com/kbroman/RStudioConf2019Slides)
