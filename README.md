@@ -67,7 +67,7 @@
   * [R Style Guide](http://adv-r.had.co.nz/Style.html)
   * [The `tidyverse` Style Guide](https://style.tidyverse.org/)
   * [`lintr`: Static code analysis for R](https://github.com/jimhester/lintr)
-  * [R Coding Style Guide[(https://irudnyts.github.io/r-coding-style-guide/)
+  * [R Coding Style Guide](https://irudnyts.github.io/r-coding-style-guide/)
 ### Github
   * [GitHub Guides](https://guides.github.com/)
   * [Writing on GitHub](https://help.github.com/categories/writing-on-github/)
