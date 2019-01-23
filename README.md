@@ -11,6 +11,7 @@
   * [Stats with R](https://mgimond.github.io/Stats-in-R/index.html)
   * [Exploratory Data Analysis in R](https://mgimond.github.io/ES218/index.html)
   * [Intro to GIS and Spatial Analysis](https://mgimond.github.io/Spatial/index.html) 
+  * [The Tentpoles of Data Science](https://simplystatistics.org/2019/01/18/the-tentpoles-of-data-science/)
   
 ## Programming
   * [Advanced R](https://adv-r.hadley.nz/)
@@ -59,10 +60,12 @@
   * [The "Gold Standard" for Data Science Project Management](https://towardsdatascience.com/the-gold-standard-of-data-science-project-management-13d68c9e85d6)
   * [Project-oriented workflow](https://www.tidyverse.org/articles/2017/12/workflow-vs-script/)
   * [What nobody tells you about documentation](https://www.divio.com/blog/documentation/)
+  * [Reproducibility in Science](https://ropensci.github.io/reproducibility-guide/)
 ### Style
   * [R Style Guide](http://adv-r.had.co.nz/Style.html)
   * [The `tidyverse` Style Guide](https://style.tidyverse.org/)
   * [`lintr`: Static code analysis for R](https://github.com/jimhester/lintr)
+  * [R Coding Style Guide[(https://irudnyts.github.io/r-coding-style-guide/)
 ### Github
   * [GitHub Guides](https://guides.github.com/)
   * [Writing on GitHub](https://help.github.com/categories/writing-on-github/)
@@ -72,6 +75,7 @@
   * [R Markdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown/)
   * [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
   * [Create a Glossary in R Markdown](https://liao961120.github.io/2018/10/24/glossary-maker.html)
+  * [Create R Markdown reports and presentations even better with these 3 practical tips](https://jozefhajnala.gitlab.io/r/r909-rmarkdown-tips/)
 ### Reporting
   * [Make Beautiful Tables with the `Formattable` Package](https://www.displayr.com/formattable/)
   * [`knitr`: Elegant, flexible, and fast dynamic report generation with R](https://yihui.name/knitr/)
