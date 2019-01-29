@@ -74,17 +74,13 @@
   * [Writing on GitHub](https://help.github.com/categories/writing-on-github/)
   * [The Legal Side of Open Source](https://opensource.guide/legal/)
   * [Happy Git and GitHub for the useR](http://happygitwithr.com/)
-### Markdown
+### Markdown/Reporting
   * [R Markdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown/)
   * [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
   * [Create a Glossary in R Markdown](https://liao961120.github.io/2018/10/24/glossary-maker.html)
   * [Create R Markdown reports and presentations even better with these 3 practical tips](https://jozefhajnala.gitlab.io/r/r909-rmarkdown-tips/)
-### Reporting
-  * [Make Beautiful Tables with the `Formattable` Package](https://www.displayr.com/formattable/)
   * [`knitr`: Elegant, flexible, and fast dynamic report generation with R](https://yihui.name/knitr/)
   * [Exporting editable plots from R to Powerpoint: making `ggplot2` `purrr` with `officer`](https://www.brodrigues.co/blog/2018-10-05-ggplot2_purrr_officer/)
-  * [`myprettyreport`: Export ggplot2 graphs into good-looking PDF files](https://github.com/tarkomatas/myprettyreport)
-  
 ## Cool R Packages
   * [awesome-r: Curated list of R packages ](https://github.com/qinwf/awesome-R)
   * [`sf`: Simple Features for R](https://r-spatial.github.io/sf/articles/sf1.html)
@@ -93,7 +89,6 @@
   * [`here`: A simpler way to find your files](https://github.com/r-lib/here) See also [Ode to the here package](https://github.com/jennybc/here_here)
   
 ## Helpful API Packages
-
   * [`tidycensus`](https://walkerke.github.io/tidycensus/) See also [creator's blog](https://walkerke.github.io/)
   * [`ipumsr`](https://github.com/mnpopcenter/ipumsr)
   * [`tigris`](https://github.com/walkerke/tigris) See also [creator's blog](https://walkerke.github.io/)
