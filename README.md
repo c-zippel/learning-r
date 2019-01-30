@@ -119,3 +119,4 @@
   * [Fundamentals of Data Visualization](https://serialmentor.com/dataviz/)
   * [Graphs - Cookbook for R](http://www.cookbook-r.com/Graphs/)
   * [rstudio::conf 2019 materials](https://github.com/kbroman/RStudioConf2019Slides)
+  * [Data Visualization: A practical introduction](http://socviz.co/http://socviz.co/)
