@@ -81,6 +81,8 @@
   * [Create R Markdown reports and presentations even better with these 3 practical tips](https://jozefhajnala.gitlab.io/r/r909-rmarkdown-tips/)
   * [`knitr`: Elegant, flexible, and fast dynamic report generation with R](https://yihui.name/knitr/)
   * [Exporting editable plots from R to Powerpoint: making `ggplot2` `purrr` with `officer`](https://www.brodrigues.co/blog/2018-10-05-ggplot2_purrr_officer/)
+  * [Redesigning the Nonprofit Sector in Brief in R](https://medium.com/@urban_institute/redesigning-the-nonprofit-sector-in-brief-in-r-1dcaa446dba6)
+  * [Iterated PDFs with R Markdown](https://medium.com/@urban_institute/iterated-pdfs-with-r-markdown-144e2a6d6a1a)
 ## Cool R Packages
   * [awesome-r: Curated list of R packages ](https://github.com/qinwf/awesome-R)
   * [`sf`: Simple Features for R](https://r-spatial.github.io/sf/articles/sf1.html)
