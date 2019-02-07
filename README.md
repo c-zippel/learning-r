@@ -64,6 +64,7 @@
   * [Project-oriented workflow](https://www.tidyverse.org/articles/2017/12/workflow-vs-script/)
   * [What nobody tells you about documentation](https://www.divio.com/blog/documentation/)
   * [Reproducibility in Science](https://ropensci.github.io/reproducibility-guide/)
+  * [What They Forgot to Teach You About R](https://jennybc.github.io/wtf-2019-rsc/)
 ### Style
   * [R Style Guide](http://adv-r.had.co.nz/Style.html)
   * [The `tidyverse` Style Guide](https://style.tidyverse.org/)
@@ -83,6 +84,8 @@
   * [Exporting editable plots from R to Powerpoint: making `ggplot2` `purrr` with `officer`](https://www.brodrigues.co/blog/2018-10-05-ggplot2_purrr_officer/)
   * [Redesigning the Nonprofit Sector in Brief in R](https://medium.com/@urban_institute/redesigning-the-nonprofit-sector-in-brief-in-r-1dcaa446dba6)
   * [Iterated PDFs with R Markdown](https://medium.com/@urban_institute/iterated-pdfs-with-r-markdown-144e2a6d6a1a)
+  * [Advanced R Markdown Workshop materials](https://arm.rbind.io/)
+  * [Introduction to Shiny and R Markdown workshop materials](https://github.com/dtkaplan/shinymark)
 ## Cool R Packages
   * [awesome-r: Curated list of R packages ](https://github.com/qinwf/awesome-R)
   * [`sf`: Simple Features for R](https://r-spatial.github.io/sf/articles/sf1.html)
