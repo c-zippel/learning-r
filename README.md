@@ -32,6 +32,7 @@
   * [Getting started with the `purrr` package](https://data.library.virginia.edu/getting-started-with-the-purrr-package-in-r/)
   * [Using tryCatch for robust R scripts](https://rsangole.netlify.com/post/try-catch/)
   * [Selecting and doing with tidyeval](https://speakerdeck.com/lionelhenry/selecting-and-doing-with-tidy-eval)
+  * [Tidyeval in context](https://speakerdeck.com/jennybc/tidy-eval-in-context)
   
 ## Data Carpentry
   * [`dplyr`: A Grammar of Data Manipulation](https://dplyr.tidyverse.org/index.html)
@@ -86,6 +87,8 @@
   * [Iterated PDFs with R Markdown](https://medium.com/@urban_institute/iterated-pdfs-with-r-markdown-144e2a6d6a1a)
   * [Advanced R Markdown Workshop materials](https://arm.rbind.io/)
   * [Introduction to Shiny and R Markdown workshop materials](https://github.com/dtkaplan/shinymark)
+  * [Writing your thesis with R Markdown](https://rosannavanhespenresearch.wordpress.com/2016/03/30/writing-your-thesis-with-r-markdown-5-the-thesis-layout/)
+  * [`remedy`: addins to facilitate writing in markdown with RStudio](https://github.com/ThinkR-open/remedy)
 ## Cool R Packages
   * [awesome-r: Curated list of R packages ](https://github.com/qinwf/awesome-R)
   * [`sf`: Simple Features for R](https://r-spatial.github.io/sf/articles/sf1.html)
@@ -124,4 +127,4 @@
   * [Fundamentals of Data Visualization](https://serialmentor.com/dataviz/)
   * [Graphs - Cookbook for R](http://www.cookbook-r.com/Graphs/)
   * [rstudio::conf 2019 materials](https://github.com/kbroman/RStudioConf2019Slides)
-  * [Data Visualization: A practical introduction](http://socviz.co/http://socviz.co/)
+  * [Data Visualization: A practical introduction](http://socviz.co/)
