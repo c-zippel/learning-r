@@ -28,7 +28,7 @@
   * [`purr`: Functional Programming Tools](https://purrr.tidyverse.org/index.html)
   * [`purrr` tutorial](https://jennybc.github.io/purrr-tutorial/index.html)
   * [`purrr` cookbook](http://colinfay.me/purrr-cookbook/)
-  * [Going Off the Map: Exploring purrr's Other Functions](https://hookedondata.org/going-off-the-map/)
+  * [Going Off the Map: Exploring `purrr`'s Other Functions](https://hookedondata.org/going-off-the-map/)
   * [Getting started with the `purrr` package](https://data.library.virginia.edu/getting-started-with-the-purrr-package-in-r/)
   * [Using tryCatch for robust R scripts](https://rsangole.netlify.com/post/try-catch/)
   * [Selecting and doing with tidyeval](https://speakerdeck.com/lionelhenry/selecting-and-doing-with-tidy-eval)
@@ -109,7 +109,7 @@
   * [Drawing beautiful maps programmatically with R, `sf` and `ggplot2`](https://www.r-spatial.org/r/2018/10/25/ggplot2-sf.html)
   * [Faceted Graphs with `cdata` and `ggplot2`](http://www.win-vector.com/blog/2018/10/faceted-graphs-with-cdata-and-ggplot2/)
   * [Getting started Stamen maps with `ggmap`](https://statisticaloddsandends.wordpress.com/2018/10/25/getting-started-stamen-maps-with-ggmap/)
-  * [Map Plots Created With R And Ggmap](https://www.littlemissdata.com/blog/maps)
+  * [Map Plots Created With R And `ggmap`](https://www.littlemissdata.com/blog/maps)
   * [`multivariate-dot-density`](https://github.com/NYCPlanning/multivariate-dot-density)
   * [`mapdeck`: Interactive maps using Mapbox GL and Deck.gl](https://github.com/SymbolixAU/mapdeck)
 
@@ -118,6 +118,8 @@
   * [`DBI`: R Database Interface](http://r-dbi.github.io/DBI/index.html)
   * [`RPostgreSQL`: R Interface to the 'PostgreSQL' Database System](https://cran.r-project.org/web/packages/RPostgreSQL/)
   * [Working with Databases](https://nuitrcs.github.io/databases_workshop/r/r_databases.html)
+  * [Getting Started With `rquery`](http://www.win-vector.com/blog/2019/02/getting-started-with-rquery/)
+  * [Query Generation in R](http://www.win-vector.com/blog/2019/02/query-generation-in-r/)
   
 ## Other Stuff
   * [Tesseract 4: State of the art OCR in R](https://github.com/hadley)
