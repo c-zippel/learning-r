@@ -66,6 +66,8 @@
   * [What nobody tells you about documentation](https://www.divio.com/blog/documentation/)
   * [Reproducibility in Science](https://ropensci.github.io/reproducibility-guide/)
   * [What They Forgot to Teach You About R](https://jennybc.github.io/wtf-2019-rsc/)
+  * [Best Practices for Data Science Project Workflows and File Organization](https://github.com/moldach/project-directory)
+  * [Packrat: a dependency management system for R](https://rstudio.github.io/packrat/)
 ### Style
   * [R Style Guide](http://adv-r.had.co.nz/Style.html)
   * [The `tidyverse` Style Guide](https://style.tidyverse.org/)
