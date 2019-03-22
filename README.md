@@ -13,6 +13,7 @@
   * [Intro to GIS and Spatial Analysis](https://mgimond.github.io/Spatial/index.html) 
   * [The Tentpoles of Data Science](https://simplystatistics.org/2019/01/18/the-tentpoles-of-data-science/)
   * [R4DS Online Learning Community](https://www.rfordatasci.com/)
+  * [Mastering Software Development in R](https://bookdown.org/rdpeng/RProgDA/)
   
 ## Programming
   * [Advanced R](https://adv-r.hadley.nz/)
@@ -68,6 +69,7 @@
   * [What They Forgot to Teach You About R](https://jennybc.github.io/wtf-2019-rsc/)
   * [Best Practices for Data Science Project Workflows and File Organization](https://github.com/moldach/project-directory)
   * [Packrat: a dependency management system for R](https://rstudio.github.io/packrat/)
+  * [How to Avoid Publishing Credentials in Your Code](https://rviews.rstudio.com/2019/03/21/how-to-avoid-publishing-credentials-in-your-code/)
 ### Style
   * [R Style Guide](http://adv-r.had.co.nz/Style.html)
   * [The `tidyverse` Style Guide](https://style.tidyverse.org/)
@@ -78,7 +80,8 @@
   * [Writing on GitHub](https://help.github.com/categories/writing-on-github/)
   * [The Legal Side of Open Source](https://opensource.guide/legal/)
   * [Happy Git and GitHub for the useR](http://happygitwithr.com/)
-### Markdown/Reporting
+  
+## Markdown/Reporting
   * [R Markdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown/)
   * [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
   * [Create a Glossary in R Markdown](https://liao961120.github.io/2018/10/24/glossary-maker.html)
@@ -91,6 +94,9 @@
   * [Introduction to Shiny and R Markdown workshop materials](https://github.com/dtkaplan/shinymark)
   * [Writing your thesis with R Markdown](https://rosannavanhespenresearch.wordpress.com/2016/03/30/writing-your-thesis-with-r-markdown-5-the-thesis-layout/)
   * [`remedy`: addins to facilitate writing in markdown with RStudio](https://github.com/ThinkR-open/remedy)
+  * [Zotero hacks: unlimited synced storage and its smooth use with rmarkdown](https://ikashnitsky.github.io/2019/zotero/)
+  * [Example structure for data dictionary + code used for derivation using RMarkdown](https://gist.github.com/jenniferthompson/1e6059569214807bbc7db472ff117442)
+  
 ## Cool R Packages
   * [awesome-r: Curated list of R packages ](https://github.com/qinwf/awesome-R)
   * [`sf`: Simple Features for R](https://r-spatial.github.io/sf/articles/sf1.html)
@@ -122,13 +128,18 @@
   * [Working with Databases](https://nuitrcs.github.io/databases_workshop/r/r_databases.html)
   * [Getting Started With `rquery`](http://www.win-vector.com/blog/2019/02/getting-started-with-rquery/)
   * [Query Generation in R](http://www.win-vector.com/blog/2019/02/query-generation-in-r/)
-  
+  * [`dblyr` SQL translation](https://dbplyr.tidyverse.org/articles/sql-translation.html)
+
+## Data Vis
+  * [`r2d3`: R Interface to D3 Visualizations](https://rstudio.github.io/r2d3/)
+  * [Fundamentals of Data Visualization](https://serialmentor.com/dataviz/)
+  * [Graphs - Cookbook for R](http://www.cookbook-r.com/Graphs/)
+  * [Data Visualization: A practical introduction](http://socviz.co/)
+  * [showtext: Using Fonts More Easily in R Graphs](https://cran.rstudio.com/web/packages/showtext/vignettes/introduction.html)
+  * [Create interactive ggplot2 graphs with plotly](https://www.littlemissdata.com/blog/interactiveplots)
+
 ## Other Stuff
   * [Tesseract 4: State of the art OCR in R](https://github.com/hadley)
   * [Master R shiny: One trick to build maintainable and scaleable event chains](https://www.statworx.com/de/blog/master-r-shiny-one-trick-to-build-maintainable-and-scalable-event-chains/)
   * [Writing scrapers](http://docs.opencivicdata.org/en/latest/scrape/index.html)
-  * [`r2d3`: R Interface to D3 Visualizations](https://rstudio.github.io/r2d3/)
-  * [Fundamentals of Data Visualization](https://serialmentor.com/dataviz/)
-  * [Graphs - Cookbook for R](http://www.cookbook-r.com/Graphs/)
   * [rstudio::conf 2019 materials](https://github.com/kbroman/RStudioConf2019Slides)
-  * [Data Visualization: A practical introduction](http://socviz.co/)
