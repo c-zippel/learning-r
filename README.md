@@ -34,6 +34,7 @@
   * [Using tryCatch for robust R scripts](https://rsangole.netlify.com/post/try-catch/)
   * [Selecting and doing with tidyeval](https://speakerdeck.com/lionelhenry/selecting-and-doing-with-tidy-eval)
   * [Tidyeval in context](https://speakerdeck.com/jennybc/tidy-eval-in-context)
+  * [Functional programming helpers from `purrr` and friends, part 3](https://www.eokodie.com/blog/functional-programming-helpers-from-purrr-and-friends-part-3/)
   
 ## Data Carpentry
   * [`dplyr`: A Grammar of Data Manipulation](https://dplyr.tidyverse.org/index.html)
@@ -70,6 +71,8 @@
   * [Best Practices for Data Science Project Workflows and File Organization](https://github.com/moldach/project-directory)
   * [Packrat: a dependency management system for R](https://rstudio.github.io/packrat/)
   * [How to Avoid Publishing Credentials in Your Code](https://rviews.rstudio.com/2019/03/21/how-to-avoid-publishing-credentials-in-your-code/)
+  * [`DataPackageR`: An R package to enable reproducible data processing, packaging and sharing](https://github.com/ropensci/DataPackageR)
+  * [`usethis` for reporting](https://sharla.party/posts/usethis-for-reporting/)
 ### Style
   * [R Style Guide](http://adv-r.had.co.nz/Style.html)
   * [The `tidyverse` Style Guide](https://style.tidyverse.org/)
