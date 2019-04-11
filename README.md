@@ -120,6 +120,7 @@
   * [Map Plots Created With R And `ggmap`](https://www.littlemissdata.com/blog/maps)
   * [`multivariate-dot-density`](https://github.com/NYCPlanning/multivariate-dot-density)
   * [`mapdeck`: Interactive maps using Mapbox GL and Deck.gl](https://github.com/SymbolixAU/mapdeck)
+  * [`osmdata`: Import 'OpenStreetMap' Data as Simple Features or Spatial Objects](https://ropensci.github.io/osmdata/index.html)
 
 ## Databases in R
   * [Databases using R Studio](https://db.rstudio.com/)
@@ -129,6 +130,7 @@
   * [Getting Started With `rquery`](http://www.win-vector.com/blog/2019/02/getting-started-with-rquery/)
   * [Query Generation in R](http://www.win-vector.com/blog/2019/02/query-generation-in-r/)
   * [`dblyr` SQL translation](https://dbplyr.tidyverse.org/articles/sql-translation.html)
+  * [Summarising SQL Translation for multiple `dbplyr` backends](https://apps.fishandwhistle.net/archives/1503)
 
 ## Data Vis
   * [`r2d3`: R Interface to D3 Visualizations](https://rstudio.github.io/r2d3/)
