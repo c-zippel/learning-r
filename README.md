@@ -35,6 +35,7 @@
   * [Selecting and doing with tidyeval](https://speakerdeck.com/lionelhenry/selecting-and-doing-with-tidy-eval)
   * [Tidyeval in context](https://speakerdeck.com/jennybc/tidy-eval-in-context)
   * [Functional programming helpers from `purrr` and friends, part 3](https://www.eokodie.com/blog/functional-programming-helpers-from-purrr-and-friends-part-3/)
+  * [`attempt`: Tools for defensive programming in R](https://github.com/ColinFay/attempt)
   
 ## Data Carpentry
   * [`dplyr`: A Grammar of Data Manipulation](https://dplyr.tidyverse.org/index.html)
