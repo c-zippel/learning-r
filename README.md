@@ -74,6 +74,7 @@
   * [How to Avoid Publishing Credentials in Your Code](https://rviews.rstudio.com/2019/03/21/how-to-avoid-publishing-credentials-in-your-code/)
   * [`DataPackageR`: An R package to enable reproducible data processing, packaging and sharing](https://github.com/ropensci/DataPackageR)
   * [`usethis` for reporting](https://sharla.party/posts/usethis-for-reporting/)
+  * [`here`: A simpler way to find your files](https://github.com/r-lib/here) See also [Ode to the here package](https://github.com/jennybc/here_here)
 ### Style
   * [R Style Guide](http://adv-r.had.co.nz/Style.html)
   * [The `tidyverse` Style Guide](https://style.tidyverse.org/)
@@ -101,14 +102,7 @@
   * [Zotero hacks: unlimited synced storage and its smooth use with rmarkdown](https://ikashnitsky.github.io/2019/zotero/)
   * [Example structure for data dictionary + code used for derivation using RMarkdown](https://gist.github.com/jenniferthompson/1e6059569214807bbc7db472ff117442)
   
-## Cool R Packages
-  * [awesome-r: Curated list of R packages ](https://github.com/qinwf/awesome-R)
-  * [`sf`: Simple Features for R](https://r-spatial.github.io/sf/articles/sf1.html)
-  * [`glue`: Interpreted String Literals](https://glue.tidyverse.org/index.html)
-  * [`naniar`: Data Structures, Summaries, and Visualisations for Missing Data](http://naniar.njtierney.com/)
-  * [`here`: A simpler way to find your files](https://github.com/r-lib/here) See also [Ode to the here package](https://github.com/jennybc/here_here)
-  
-## Helpful API Packages
+## API Packages
   * [`tidycensus`](https://walkerke.github.io/tidycensus/) See also [creator's blog](https://walkerke.github.io/)
   * [`ipumsr`](https://github.com/mnpopcenter/ipumsr)
   * [`tigris`](https://github.com/walkerke/tigris) See also [creator's blog](https://walkerke.github.io/)
@@ -117,6 +111,7 @@
   
 ## Spatial Analysis / Mapping
   * [Geocomputation with R](https://geocompr.robinlovelace.net/)
+  * [`sf`: Simple Features for R](https://r-spatial.github.io/sf/articles/sf1.html)
   * [Tidy spatial data in R: using `dplyr`, `tidyr`, and `ggplot2` with `sf`](http://strimas.com/r/tidy-sf/)
   * [Drawing beautiful maps programmatically with R, `sf` and `ggplot2`](https://www.r-spatial.org/r/2018/10/25/ggplot2-sf.html)
   * [Faceted Graphs with `cdata` and `ggplot2`](http://www.win-vector.com/blog/2018/10/faceted-graphs-with-cdata-and-ggplot2/)
@@ -126,7 +121,7 @@
   * [`mapdeck`: Interactive maps using Mapbox GL and Deck.gl](https://github.com/SymbolixAU/mapdeck)
   * [`osmdata`: Import 'OpenStreetMap' Data as Simple Features or Spatial Objects](https://ropensci.github.io/osmdata/index.html)
 
-## Databases in R
+## Databases
   * [Databases using R Studio](https://db.rstudio.com/)
   * [`DBI`: R Database Interface](http://r-dbi.github.io/DBI/index.html)
   * [`RPostgreSQL`: R Interface to the 'PostgreSQL' Database System](https://cran.r-project.org/web/packages/RPostgreSQL/)
@@ -141,8 +136,11 @@
   * [Fundamentals of Data Visualization](https://serialmentor.com/dataviz/)
   * [Graphs - Cookbook for R](http://www.cookbook-r.com/Graphs/)
   * [Data Visualization: A practical introduction](http://socviz.co/)
-  * [showtext: Using Fonts More Easily in R Graphs](https://cran.rstudio.com/web/packages/showtext/vignettes/introduction.html)
   * [Create interactive ggplot2 graphs with plotly](https://www.littlemissdata.com/blog/interactiveplots)
+
+## Websites
+  * [R Markdown Chapter 10 Websites](https://bookdown.org/yihui/rmarkdown/websites.html)
+  * [How to make an R Markdown website](https://livefreeordichotomize.com/2017/08/08/how-to-make-an-rmarkdown-website/)
 
 ## Other Stuff
   * [Tesseract 4: State of the art OCR in R](https://github.com/hadley)
