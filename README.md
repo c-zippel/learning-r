@@ -48,7 +48,7 @@
   * [`stringr`: Consistent wrappers for common string operations](https://stringr.tidyverse.org/reference/index.html)
   * [A tidyverse cookbook](https://rstudio-education.github.io/tidyverse-cookbook/)
   
- ## Writing R Packages
+ ## Packages
   * [Writing R Extensions (CRAN)](https://cran.r-project.org/doc/manuals/R-exts.html)
   * [R Packages](http://r-pkgs.had.co.nz/)
   * [Best practices for API packages](https://cran.r-project.org/web/packages/httr/vignettes/api-packages.html)
@@ -86,7 +86,7 @@
   * [The Legal Side of Open Source](https://opensource.guide/legal/)
   * [Happy Git and GitHub for the useR](http://happygitwithr.com/)
   
-## Markdown/Reporting
+## R Markdown/Reporting
   * [R Markdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown/)
   * [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
   * [Create a Glossary in R Markdown](https://liao961120.github.io/2018/10/24/glossary-maker.html)
@@ -101,6 +101,7 @@
   * [`remedy`: addins to facilitate writing in markdown with RStudio](https://github.com/ThinkR-open/remedy)
   * [Zotero hacks: unlimited synced storage and its smooth use with rmarkdown](https://ikashnitsky.github.io/2019/zotero/)
   * [Example structure for data dictionary + code used for derivation using RMarkdown](https://gist.github.com/jenniferthompson/1e6059569214807bbc7db472ff117442)
+  * [Tips and tricks for working with images and figures in R Markdown documents](http://zevross.com/blog/2017/06/19/tips-and-tricks-for-working-with-images-and-figures-in-r-markdown-documents/)
   
 ## API Packages
   * [`tidycensus`](https://walkerke.github.io/tidycensus/) See also [creator's blog](https://walkerke.github.io/)
