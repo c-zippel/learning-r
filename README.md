@@ -120,6 +120,7 @@
   * [`multivariate-dot-density`](https://github.com/NYCPlanning/multivariate-dot-density)
   * [`mapdeck`: Interactive maps using Mapbox GL and Deck.gl](https://github.com/SymbolixAU/mapdeck)
   * [`osmdata`: Import 'OpenStreetMap' Data as Simple Features or Spatial Objects](https://ropensci.github.io/osmdata/index.html)
+  * [`mapview`: Interactive viewing of spatial data in R](https://r-spatial.github.io/mapview/)
 
 ## Databases
   * [Databases using R Studio](https://db.rstudio.com/)
@@ -137,6 +138,8 @@
   * [Graphs - Cookbook for R](http://www.cookbook-r.com/Graphs/)
   * [Data Visualization: A practical introduction](http://socviz.co/)
   * [Create interactive ggplot2 graphs with plotly](https://www.littlemissdata.com/blog/interactiveplots)
+  * [Tilegrams](https://pitchinteractiveinc.github.io/tilegrams/)
+  * [`ggpubr`: ‘ggplot2’ Based Publication Ready Plots](https://rpkgs.datanovia.com/ggpubr/index.html)
 
 ## Websites
   * [R Markdown Chapter 10 Websites](https://bookdown.org/yihui/rmarkdown/websites.html)
