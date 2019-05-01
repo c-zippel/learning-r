@@ -43,7 +43,6 @@
   * [`cdata`: Fluid Data Transformations](https://winvector.github.io/cdata/)
   * [Designing Transforms for Data Reshaping with `cdata`](http://www.win-vector.com/blog/2018/10/designing-transforms-for-data-reshaping-with-cdata/)
   * [How to perform merges (joins) on two or more data frames with base R, tidyverse and data.table](https://jozefhajnala.gitlab.io/r/r006-merge/)
-  * [Getting data from pdfs using the `pdftools` package](https://www.brodrigues.co/blog/2018-06-10-scraping_pdfs/)
   * [`stringi`: String/text processing](http://www.gagolewski.com/software/stringi/)
   * [`stringr`: Consistent wrappers for common string operations](https://stringr.tidyverse.org/reference/index.html)
   * [A tidyverse cookbook](https://rstudio-education.github.io/tidyverse-cookbook/)
@@ -122,6 +121,7 @@
   * [`mapdeck`: Interactive maps using Mapbox GL and Deck.gl](https://github.com/SymbolixAU/mapdeck)
   * [`osmdata`: Import 'OpenStreetMap' Data as Simple Features or Spatial Objects](https://ropensci.github.io/osmdata/index.html)
   * [`mapview`: Interactive viewing of spatial data in R](https://r-spatial.github.io/mapview/)
+  * [Bivariate maps with ggplot2 and sf](https://timogrossenbacher.ch/2019/04/bivariate-maps-with-ggplot2-and-sf/)
 
 ## Databases
   * [Databases using R Studio](https://db.rstudio.com/)
@@ -151,3 +151,5 @@
   * [Master R shiny: One trick to build maintainable and scaleable event chains](https://www.statworx.com/de/blog/master-r-shiny-one-trick-to-build-maintainable-and-scalable-event-chains/)
   * [Writing scrapers](http://docs.opencivicdata.org/en/latest/scrape/index.html)
   * [rstudio::conf 2019 materials](https://github.com/kbroman/RStudioConf2019Slides)
+  * [Getting data from pdfs using the `pdftools` package](https://www.brodrigues.co/blog/2018-06-10-scraping_pdfs/)
+  * [Join, split, and compress PDF files with pdftools](https://ropensci.org/technotes/2019/04/24/pdftools-22/)
