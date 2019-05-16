@@ -46,6 +46,9 @@
   * [`stringi`: String/text processing](http://www.gagolewski.com/software/stringi/)
   * [`stringr`: Consistent wrappers for common string operations](https://stringr.tidyverse.org/reference/index.html)
   * [A tidyverse cookbook](https://rstudio-education.github.io/tidyverse-cookbook/)
+  * [`vroom`](https://www.tidyverse.org/articles/2019/05/vroom-1-0-0/)
+  * [`summarytools`](https://github.com/dcomtois/summarytools)
+
   
  ## Packages
   * [Writing R Extensions (CRAN)](https://cran.r-project.org/doc/manuals/R-exts.html)
@@ -101,6 +104,7 @@
   * [Zotero hacks: unlimited synced storage and its smooth use with rmarkdown](https://ikashnitsky.github.io/2019/zotero/)
   * [Example structure for data dictionary + code used for derivation using RMarkdown](https://gist.github.com/jenniferthompson/1e6059569214807bbc7db472ff117442)
   * [Tips and tricks for working with images and figures in R Markdown documents](http://zevross.com/blog/2017/06/19/tips-and-tricks-for-working-with-images-and-figures-in-r-markdown-documents/)
+  * [`redoc`](https://noamross.github.io/redoc/index.html)
   
 ## API Packages
   * [`tidycensus`](https://walkerke.github.io/tidycensus/) See also [creator's blog](https://walkerke.github.io/)
