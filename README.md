@@ -47,9 +47,11 @@
   * [`stringr`: Consistent wrappers for common string operations](https://stringr.tidyverse.org/reference/index.html)
   * [A tidyverse cookbook](https://rstudio-education.github.io/tidyverse-cookbook/)
   * [`vroom`](https://www.tidyverse.org/articles/2019/05/vroom-1-0-0/)
+  * [`panelr`](https://www.jacob-long.com/post/panelr-intro/)
   * [`summarytools`](https://github.com/dcomtois/summarytools)
+  * [`skimr`](https://github.com/ropensci/skimr)
+  * `tidyr` [Rectangling](https://tidyr.tidyverse.org/dev/articles/rectangle.html) [Pivoting](https://tidyr.tidyverse.org/dev/articles/pivot.html)
 
-  
  ## Packages
   * [Writing R Extensions (CRAN)](https://cran.r-project.org/doc/manuals/R-exts.html)
   * [R Packages](http://r-pkgs.had.co.nz/)
@@ -77,6 +79,7 @@
   * [`DataPackageR`: An R package to enable reproducible data processing, packaging and sharing](https://github.com/ropensci/DataPackageR)
   * [`usethis` for reporting](https://sharla.party/posts/usethis-for-reporting/)
   * [`here`: A simpler way to find your files](https://github.com/r-lib/here) See also [Ode to the here package](https://github.com/jennybc/here_here)
+  * [File organization best practices](https://andrewbtran.github.io/NICAR/2018/workflow/docs/01-workflow_intro.html)
 ### Style
   * [R Style Guide](http://adv-r.had.co.nz/Style.html)
   * [The `tidyverse` Style Guide](https://style.tidyverse.org/)
@@ -145,6 +148,7 @@
   * [Create interactive ggplot2 graphs with plotly](https://www.littlemissdata.com/blog/interactiveplots)
   * [Tilegrams](https://pitchinteractiveinc.github.io/tilegrams/)
   * [`ggpubr`: ‘ggplot2’ Based Publication Ready Plots](https://rpkgs.datanovia.com/ggpubr/index.html)
+  * [Interactive web-based data visualization with R, plotly, and shiny](https://plotly-r.com/)
 
 ## Websites
   * [R Markdown Chapter 10 Websites](https://bookdown.org/yihui/rmarkdown/websites.html)
