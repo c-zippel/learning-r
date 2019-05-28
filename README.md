@@ -62,6 +62,7 @@
   * [R packages primer](https://kbroman.org/pkg_primer/)
   * [R Packages for Team Collaboration](https://github.com/skirmer/odsc2018/blob/master/R_Packages_Collaboration_ODSC.pdf)
   * [Generating Rd files with `roxygen2`](https://cran.r-project.org/web/packages/roxygen2/vignettes/rd.html)
+  * [usethis workflow for package development](https://www.hvitfeldt.me/blog/usethis-workflow-for-package-development/)
   
 ## Workflow & Reproducibility
   * [Excuse me, do you have a moment to talk about version control?](https://peerj.com/preprints/3159/)
