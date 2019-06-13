@@ -14,6 +14,7 @@
   * [The Tentpoles of Data Science](https://simplystatistics.org/2019/01/18/the-tentpoles-of-data-science/)
   * [R4DS Online Learning Community](https://www.rfordatasci.com/)
   * [Mastering Software Development in R](https://bookdown.org/rdpeng/RProgDA/)
+  * [Statistical Inference via Data Science: A moderndive into R and the tidyverse](https://moderndive.com/)
   
 ## Programming
   * [Advanced R](https://adv-r.hadley.nz/)
@@ -51,6 +52,7 @@
   * [`summarytools`](https://github.com/dcomtois/summarytools)
   * [`skimr`](https://github.com/ropensci/skimr)
   * `tidyr` [Rectangling](https://tidyr.tidyverse.org/dev/articles/rectangle.html) [Pivoting](https://tidyr.tidyverse.org/dev/articles/pivot.html)
+  * [Using R and the tidyverse for Data Science: Workshop materials](https://github.com/wjakethompson/tidy-ds-workshop)
 
  ## Packages
   * [Writing R Extensions (CRAN)](https://cran.r-project.org/doc/manuals/R-exts.html)
@@ -150,10 +152,12 @@
   * [Tilegrams](https://pitchinteractiveinc.github.io/tilegrams/)
   * [`ggpubr`: ‘ggplot2’ Based Publication Ready Plots](https://rpkgs.datanovia.com/ggpubr/index.html)
   * [Interactive web-based data visualization with R, plotly, and shiny](https://plotly-r.com/)
+  * [R Graphics Cookbook](https://r-graphics.org/)
 
 ## Websites
   * [R Markdown Chapter 10 Websites](https://bookdown.org/yihui/rmarkdown/websites.html)
   * [How to make an R Markdown website](https://livefreeordichotomize.com/2017/08/08/how-to-make-an-rmarkdown-website/)
+  * [blogdown: Creating Websites with R Markdown](https://bookdown.org/yihui/blogdown/)
 
 ## Other Stuff
   * [Tesseract 4: State of the art OCR in R](https://github.com/hadley)
