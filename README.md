@@ -30,6 +30,8 @@
   * [`purr`: Functional Programming Tools](https://purrr.tidyverse.org/index.html)
   * [`purrr` tutorial](https://jennybc.github.io/purrr-tutorial/index.html)
   * [`purrr` cookbook](http://colinfay.me/purrr-cookbook/)
+  * [A Crazy Little Thing Called {purrr}](https://colinfay.me/tags/#purrr)
+  * [Purrr - tips and tricks](https://www.hvitfeldt.me/blog/purrr-tips-and-tricks/)
   * [Going Off the Map: Exploring `purrr`'s Other Functions](https://hookedondata.org/going-off-the-map/)
   * [Getting started with the `purrr` package](https://data.library.virginia.edu/getting-started-with-the-purrr-package-in-r/)
   * [Using tryCatch for robust R scripts](https://rsangole.netlify.com/post/try-catch/)
