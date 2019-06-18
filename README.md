@@ -160,9 +160,12 @@
   * [R Markdown Chapter 10 Websites](https://bookdown.org/yihui/rmarkdown/websites.html)
   * [How to make an R Markdown website](https://livefreeordichotomize.com/2017/08/08/how-to-make-an-rmarkdown-website/)
   * [blogdown: Creating Websites with R Markdown](https://bookdown.org/yihui/blogdown/)
+  * [Summer of blogdown](https://summer-of-blogdown.netlify.com/)
+  * [Twitter thread: Creating an academic website with blogdown](https://twitter.com/dsquintana/status/1139846569623281664)
 
 ## Other Stuff
-  * [Tesseract 4: State of the art OCR in R](https://github.com/hadley)
+  * [Tesseract 4: State of the art OCR in R](https://github.com/ropensci/tesseract)
+  * [`magick`: Advanced Image-Processing in R](https://docs.ropensci.org/magick/)
   * [Master R shiny: One trick to build maintainable and scaleable event chains](https://www.statworx.com/de/blog/master-r-shiny-one-trick-to-build-maintainable-and-scalable-event-chains/)
   * [Writing scrapers](http://docs.opencivicdata.org/en/latest/scrape/index.html)
   * [rstudio::conf 2019 materials](https://github.com/kbroman/RStudioConf2019Slides)
