@@ -134,6 +134,7 @@
   * [`osmdata`: Import 'OpenStreetMap' Data as Simple Features or Spatial Objects](https://ropensci.github.io/osmdata/index.html)
   * [`mapview`: Interactive viewing of spatial data in R](https://r-spatial.github.io/mapview/)
   * [Bivariate maps with ggplot2 and sf](https://timogrossenbacher.ch/2019/04/bivariate-maps-with-ggplot2-and-sf/)
+  * [Using ggmap after July 2018](https://www.visibledata.co.uk/blog/2018/12/05/2018-12-05-using-ggmap-after-july-2018/)
 
 ## Databases
   * [Databases using R Studio](https://db.rstudio.com/)
