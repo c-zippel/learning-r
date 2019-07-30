@@ -140,7 +140,7 @@
   * [cartography: Thematic Cartography](https://riatelab.github.io/cartography/docs/)
   * [Point-in-polygon with sf](https://mattherman.info/blog/point-in-poly/)
   * [Spatial Data Science](https://keen-swartz-3146c4.netlify.com/)
-  * [Spatial and Spatiotemporal Data Analysis in R]\(https://github.com/edzer/User2019)
+  * [Spatial and Spatiotemporal Data Analysis in R](https://github.com/edzer/User2019)
 
 ## Databases
   * [Databases using R Studio](https://db.rstudio.com/)
