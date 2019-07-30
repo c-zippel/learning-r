@@ -141,6 +141,7 @@
   * [Point-in-polygon with sf](https://mattherman.info/blog/point-in-poly/)
   * [Spatial Data Science](https://keen-swartz-3146c4.netlify.com/)
   * [Spatial and Spatiotemporal Data Analysis in R](https://github.com/edzer/User2019)
+  * [Plotly R Open Source Graphing Library](https://plot.ly/r/)
 
 ## Databases
   * [Databases using R Studio](https://db.rstudio.com/)
