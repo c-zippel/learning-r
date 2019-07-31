@@ -48,7 +48,7 @@ Key:
   * :tv: [Tidyeval in context](https://speakerdeck.com/jennybc/tidy-eval-in-context)
   * :notebook: :package: [Functional programming helpers from purrr and friends, part 3](https://www.eokodie.com/blog/functional-programming-helpers-from-purrr-and-friends-part-3/)
   * :package: [attempt: Tools for defensive programming in R](https://github.com/ColinFay/attempt)
-  * :notebook: [match.arg: A weird function that can help you write better functions][https://alistaire.rbind.io/blog/match.arg/)
+  * :notebook:  [match.arg: A weird function that can help you write better functions][https://alistaire.rbind.io/blog/match.arg/)
   * :tv: [Reusing tidyverse code](https://speakerdeck.com/lionelhenry/reusing-tidyverse-code)
   
 ## Data Carpentry
