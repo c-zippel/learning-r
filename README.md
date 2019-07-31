@@ -174,6 +174,7 @@ Key:
   * :package: :chart_with_upwards_trend: [ggpubr: ‘ggplot2’ Based Publication Ready Plots](https://rpkgs.datanovia.com/ggpubr/index.html)
   * :notebook: :chart_with_upwards_trend: [Interactive web-based data visualization with R, plotly, and shiny](https://plotly-r.com/)
   * :book: :chart_with_upwards_trend: [R Graphics Cookbook](https://r-graphics.org/)
+  * :book::chart_with_upwards_trend: [Dash for R User Guide](https://dashr.plot.ly/)
 
 ## Websites
   * :book: [R Markdown Chapter 10 Websites](https://bookdown.org/yihui/rmarkdown/websites.html)
