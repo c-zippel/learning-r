@@ -2,19 +2,28 @@
 
 [![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
 
+Key:
+:book: Ebook / Course materials
+:pencil: Blog post / Tutorial
+:package: R package
+:tv: Presentation
+:foggy: Mapping
+:chart_with_upwards_trend: Data vis
+
+
+
 ## Data Science / Stats
-  * [Applied Statistics with R](https://daviddalpiaz.github.io/appliedstats/)
-  * [R for Data Science](http://r4ds.had.co.nz/)
-  * [An Introduction to Statistical Learning with Applications in R](http://www-bcf.usc.edu/~gareth/ISL/)
-  * [Introduction to Econometrics with R](https://www.econometrics-with-r.org/)
-  * [R for teams in the data sciences](https://github.com/datascience-uwmadison/R_for_data_sciences)
-  * [Stats with R](https://mgimond.github.io/Stats-in-R/index.html)
-  * [Exploratory Data Analysis in R](https://mgimond.github.io/ES218/index.html)
-  * [Intro to GIS and Spatial Analysis](https://mgimond.github.io/Spatial/index.html) 
-  * [The Tentpoles of Data Science](https://simplystatistics.org/2019/01/18/the-tentpoles-of-data-science/)
-  * [R4DS Online Learning Community](https://www.rfordatasci.com/)
-  * [Mastering Software Development in R](https://bookdown.org/rdpeng/RProgDA/)
-  * [Statistical Inference via Data Science: A moderndive into R and the tidyverse](https://moderndive.com/)
+  * :book: [Applied Statistics with R](https://daviddalpiaz.github.io/appliedstats/)
+  * :book: [R for Data Science](http://r4ds.had.co.nz/)
+  * :book: [An Introduction to Statistical Learning with Applications in R](http://www-bcf.usc.edu/~gareth/ISL/)
+  * :book: [Introduction to Econometrics with R](https://www.econometrics-with-r.org/)
+  * :book: [R for teams in the data sciences](https://github.com/datascience-uwmadison/R_for_data_sciences)
+  * :book: [Stats with R](https://mgimond.github.io/Stats-in-R/index.html)
+  * :book: [Exploratory Data Analysis in R](https://mgimond.github.io/ES218/index.html)
+  * :book: [The Tentpoles of Data Science](https://simplystatistics.org/2019/01/18/the-tentpoles-of-data-science/)
+  * :book: [R4DS Online Learning Community](https://www.rfordatasci.com/)
+  * :book: [Mastering Software Development in R](https://bookdown.org/rdpeng/RProgDA/)
+  * :book: [Statistical Inference via Data Science: A moderndive into R and the tidyverse](https://moderndive.com/)
   
 ## Programming
   * [Advanced R](https://adv-r.hadley.nz/)
@@ -124,7 +133,8 @@
   * [fredr](https://sboysel.github.io/fredr/)
   
 ## Spatial Analysis / Mapping
-  * [Geocomputation with R](https://geocompr.robinlovelace.net/)
+  * :book: :foggy: [Intro to GIS and Spatial Analysis](https://mgimond.github.io/Spatial/index.html) 
+  * :book: :foggy: [Geocomputation with R](https://geocompr.robinlovelace.net/)
   * [sf: Simple Features for R](https://r-spatial.github.io/sf/articles/sf1.html)
   * [Tidy spatial data in R: using dplyr, tidyr, and ggplot2 with sf](http://strimas.com/r/tidy-sf/)
   * [Drawing beautiful maps programmatically with R, sf and ggplot2](https://www.r-spatial.org/r/2018/10/25/ggplot2-sf.html)
@@ -140,7 +150,7 @@
   * [cartography: Thematic Cartography](https://riatelab.github.io/cartography/docs/)
   * [Point-in-polygon with sf](https://mattherman.info/blog/point-in-poly/)
   * [Spatial Data Science](https://keen-swartz-3146c4.netlify.com/)
-  * [Spatial and Spatiotemporal Data Analysis in R](https://github.com/edzer/User2019)
+  * :book: :foggy: [Spatial and Spatiotemporal Data Analysis in R](https://github.com/edzer/User2019)
   * [Plotly R Open Source Graphing Library](https://plot.ly/r/)
 
 ## Databases
@@ -157,7 +167,7 @@
   * [r2d3: R Interface to D3 Visualizations](https://rstudio.github.io/r2d3/)
   * [Fundamentals of Data Visualization](https://serialmentor.com/dataviz/)
   * [Graphs - Cookbook for R](http://www.cookbook-r.com/Graphs/)
-  * [Data Visualization: A practical introduction](http://socviz.co/)
+  * :book: :chart_with_upwards_trend: [Data Visualization: A practical introduction](http://socviz.co/)
   * [Create interactive ggplot2 graphs with plotly](https://www.littlemissdata.com/blog/interactiveplots)
   * [Tilegrams](https://pitchinteractiveinc.github.io/tilegrams/)
   * [ggpubr: ‘ggplot2’ Based Publication Ready Plots](https://rpkgs.datanovia.com/ggpubr/index.html)
