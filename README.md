@@ -80,8 +80,8 @@ Key:
   * [R Packages for Team Collaboration](https://github.com/skirmer/odsc2018/blob/master/R_Packages_Collaboration_ODSC.pdf)
   * :package: [Generating Rd files with roxygen2](https://cran.r-project.org/web/packages/roxygen2/vignettes/rd.html)
   * :package: [usethis workflow for package development](https://www.hvitfeldt.me/blog/usethis-workflow-for-package-development/)
-    * :package: [DataPackageR: An R package to enable reproducible data processing, packaging and sharing](https://github.com/ropensci/DataPackageR)
-    * :package: [sinew](https://github.com/metrumresearchgroup/sinew)
+  * :package: [DataPackageR: An R package to enable reproducible data processing, packaging and sharing](https://github.com/ropensci/DataPackageR)
+  * :package: [sinew](https://github.com/metrumresearchgroup/sinew)
   
 ## Workflow & Reproducibility
   * :notebook: [Excuse me, do you have a moment to talk about version control?](https://peerj.com/preprints/3159/)
