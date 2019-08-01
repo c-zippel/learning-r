@@ -24,6 +24,8 @@ Key:
   * :book: [R4DS Online Learning Community](https://www.rfordatasci.com/)
   * :book: [Mastering Software Development in R](https://bookdown.org/rdpeng/RProgDA/)
   * :book: [Statistical Inference via Data Science: A moderndive into R and the tidyverse](https://moderndive.com/)
+  * :book: [Statistical Rethinking with brms, ggplot2, and the tidyverse](https://bookdown.org/ajkurz/Statistical_Rethinking_recoded/)
+  * :book: [Practical Data Science for Stats](https://peerj.com/collections/50-practicaldatascistats/)
   
 ## Programming
   * :book: [Advanced R](https://adv-r.hadley.nz/)
@@ -48,7 +50,7 @@ Key:
   * :tv: [Tidyeval in context](https://speakerdeck.com/jennybc/tidy-eval-in-context)
   * :notebook: :package: [Functional programming helpers from purrr and friends, part 3](https://www.eokodie.com/blog/functional-programming-helpers-from-purrr-and-friends-part-3/)
   * :package: [attempt: Tools for defensive programming in R](https://github.com/ColinFay/attempt)
-  * :notebook:  [match.arg: A weird function that can help you write better functions[(https://alistaire.rbind.io/blog/match.arg/)
+  * :notebook:  [match.arg: A weird function that can help you write better functions](https://alistaire.rbind.io/blog/match.arg/)
   * :tv: [Reusing tidyverse code](https://speakerdeck.com/lionelhenry/reusing-tidyverse-code)
   
 ## Data Carpentry
@@ -64,7 +66,7 @@ Key:
   * :package: [panelr](https://www.jacob-long.com/post/panelr-intro/)
   * :package: [summarytools](https://github.com/dcomtois/summarytools)
   * :package: [skimr](https://github.com/ropensci/skimr)
-  * :package: [tidyr [Rectangling](https://tidyr.tidyverse.org/dev/articles/rectangle.html) [Pivoting](https://tidyr.tidyverse.org/dev/articles/pivot.html)
+  * :package: tidyr [Rectangling](https://tidyr.tidyverse.org/dev/articles/rectangle.html) [Pivoting](https://tidyr.tidyverse.org/dev/articles/pivot.html)
   * :book: [Using R and the tidyverse for Data Science: Workshop materials](https://github.com/wjakethompson/tidy-ds-workshop)
 
  ## Packages
@@ -125,6 +127,7 @@ Key:
   * :notebook: [Example structure for data dictionary + code used for derivation using RMarkdown](https://gist.github.com/jenniferthompson/1e6059569214807bbc7db472ff117442)
   * :notebook: :chart_with_upwards_trend: [Tips and tricks for working with images and figures in R Markdown documents](http://zevross.com/blog/2017/06/19/tips-and-tricks-for-working-with-images-and-figures-in-r-markdown-documents/)
   * :package: [redoc: Reversible Reproducible Documents](https://noamross.github.io/redoc/index.html)
+  * :notebook: [Collapsible Code Output for xaringan](https://gist.github.com/emitanaka/eaa258bb8471c041797ff377704c8505)
   
 ## API Packages
   * :package: [tidycensus](https://walkerke.github.io/tidycensus/) See also [creator's blog](https://walkerke.github.io/)
@@ -158,7 +161,7 @@ Key:
   * :book: [Databases using R Studio](https://db.rstudio.com/)
   * :package: [DBI: R Database Interface](http://r-dbi.github.io/DBI/index.html)
   * :package: [RPostgreSQL: R Interface to the 'PostgreSQL' Database System](https://cran.r-project.org/web/packages/RPostgreSQL/)
-  * [Working with Databases](https://nuitrcs.github.io/databases_workshop/r/r_databases.html)
+  * :book: [Working with Databases](https://nuitrcs.github.io/databases_workshop/r/r_databases.html)
   * :notebook: :package:[Getting Started With rquery](http://www.win-vector.com/blog/2019/02/getting-started-with-rquery/)
   * :notebook: :package:[Query Generation in R](http://www.win-vector.com/blog/2019/02/query-generation-in-r/)
   * :notebook: :package: [dblyr SQL translation](https://dbplyr.tidyverse.org/articles/sql-translation.html)
