@@ -81,6 +81,7 @@ Key:
   * :package: [Generating Rd files with roxygen2](https://cran.r-project.org/web/packages/roxygen2/vignettes/rd.html)
   * :package: [usethis workflow for package development](https://www.hvitfeldt.me/blog/usethis-workflow-for-package-development/)
     * :package: [DataPackageR: An R package to enable reproducible data processing, packaging and sharing](https://github.com/ropensci/DataPackageR)
+    * :package: [sinew](https://github.com/metrumresearchgroup/sinew)
   
 ## Workflow & Reproducibility
   * :notebook: [Excuse me, do you have a moment to talk about version control?](https://peerj.com/preprints/3159/)
@@ -128,6 +129,9 @@ Key:
   * :notebook: :chart_with_upwards_trend: [Tips and tricks for working with images and figures in R Markdown documents](http://zevross.com/blog/2017/06/19/tips-and-tricks-for-working-with-images-and-figures-in-r-markdown-documents/)
   * :package: [redoc: Reversible Reproducible Documents](https://noamross.github.io/redoc/index.html)
   * :notebook: [Collapsible Code Output for xaringan](https://gist.github.com/emitanaka/eaa258bb8471c041797ff377704c8505)
+  * :package: [formattable](https://github.com/renkun-ken/formattable)
+  * :package: [flextable](https://davidgohel.github.io/flextable/index.html)
+  * :package: [DT](https://rstudio.github.io/DT/)
   
 ## API Packages
   * :package: [tidycensus](https://walkerke.github.io/tidycensus/) See also [creator's blog](https://walkerke.github.io/)
