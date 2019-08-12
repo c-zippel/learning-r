@@ -170,6 +170,7 @@ Key:
   * :notebook: :package:[Query Generation in R](http://www.win-vector.com/blog/2019/02/query-generation-in-r/)
   * :notebook: :package: [dblyr SQL translation](https://dbplyr.tidyverse.org/articles/sql-translation.html)
   * :notebook: [Summarising SQL Translation for multiple dbplyr backends](https://apps.fishandwhistle.net/archives/1503)
+  * :book: [A Comprehensive Introduction to Working with Databases using R](https://blog.rsquaredacademy.com/working-with-databases-using-r/)
 
 ## Data Vis
   * :package: :chart_with_upwards_trend: [r2d3: R Interface to D3 Visualizations](https://rstudio.github.io/r2d3/)
