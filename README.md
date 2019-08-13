@@ -3,12 +3,13 @@
 [![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
 
 Key:   
-:book: Ebook / Course or conference materials  
+:book: Ebook / Course/conference materials  
 :pencil: Blog post / Tutorial  
 :package: R package  
 :tv: Slide deck  
 :foggy: Mapping  
 :chart_with_upwards_trend: Data vis  
+
 
 
 ## Data Science / Stats
@@ -27,8 +28,8 @@ Key:
   * :book: [Practical Data Science for Stats](https://peerj.com/collections/50-practicaldatascistats/)
   * :book: [Glossary of Statistical Terms](http://hbiostat.org/doc/glossary.pdf)
   * :book: [Causal Inference: The Mixtape](http://scunning.com/cunningham_mixtape.pdf)
-  * :book: [Answering questions with data](https://crumplab.github.io/statistics/)
   * :book: [ECON 305: Economics, Causality, and Analytics](http://nickchk.com/econ305.html)
+  * :book: [Answering questions with data](https://crumplab.github.io/statistics/)
   
 ## Programming
   * :book: [Advanced R](https://adv-r.hadley.nz/)
@@ -181,8 +182,8 @@ Key:
   * :book: :chart_with_upwards_trend: [Fundamentals of Data Visualization](https://serialmentor.com/dataviz/)
   * :book: :chart_with_upwards_trend: [Graphs - Cookbook for R](http://www.cookbook-r.com/Graphs/)
   * :book: :chart_with_upwards_trend: [Data Visualization: A practical introduction](http://socviz.co/)
-  * :book: :chart_with_upwards_trend: [Create interactive ggplot2 graphs with plotly](https://www.littlemissdata.com/blog/interactiveplots)
-  * :book: :chart_with_upwards_trend: [Tilegrams](https://pitchinteractiveinc.github.io/tilegrams/)
+  * book: :chart_with_upwards_trend: [Create interactive ggplot2 graphs with plotly](https://www.littlemissdata.com/blog/interactiveplots)
+  * book: :chart_with_upwards_trend: [Tilegrams](https://pitchinteractiveinc.github.io/tilegrams/)
   * :package: :chart_with_upwards_trend: [ggpubr: ‘ggplot2’ Based Publication Ready Plots](https://rpkgs.datanovia.com/ggpubr/index.html)
   * :notebook: :chart_with_upwards_trend: [Interactive web-based data visualization with R, plotly, and shiny](https://plotly-r.com/)
   * :book: :chart_with_upwards_trend: [R Graphics Cookbook](https://r-graphics.org/)
