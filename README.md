@@ -26,6 +26,8 @@ Key:
   * :book: [Statistical Inference via Data Science: A moderndive into R and the tidyverse](https://moderndive.com/)
   * :book: [Statistical Rethinking with brms, ggplot2, and the tidyverse](https://bookdown.org/ajkurz/Statistical_Rethinking_recoded/)
   * :book: [Practical Data Science for Stats](https://peerj.com/collections/50-practicaldatascistats/)
+  * :book: [Glossary of Statistical Terms](http://hbiostat.org/doc/glossary.pdf)
+  * :book: [Causal Inference: The Mixtape](http://scunning.com/cunningham_mixtape.pdf)
   
 ## Programming
   * :book: [Advanced R](https://adv-r.hadley.nz/)
@@ -160,6 +162,7 @@ Key:
   * :book: :foggy: [Spatial Data Science](https://keen-swartz-3146c4.netlify.com/)
   * :book: :foggy: [Spatial and Spatiotemporal Data Analysis in R](https://github.com/edzer/User2019)
   * [Plotly R Open Source Graphing Library](https://plot.ly/r/)
+  * :notebook: :foggy: [Comparing Free geocoding engines](http://www.adelieresources.com/2019/01/comparing-free-geocoding-engines/)
 
 ## Databases
   * :book: [Databases using R Studio](https://db.rstudio.com/)
