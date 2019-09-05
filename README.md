@@ -4,7 +4,7 @@
 
 Key:   
 :book: Ebook / Course/conference materials  
-:pencil: Blog post / Tutorial / Vignette
+:notebook: Blog post / Tutorial / Vignette  
 :package: R package  
 :tv: Slide deck  
 :foggy: Mapping  
@@ -70,8 +70,10 @@ Key:
   * :package: [panelr](https://www.jacob-long.com/post/panelr-intro/)
   * :package: [summarytools](https://github.com/dcomtois/summarytools)
   * :package: [skimr](https://github.com/ropensci/skimr)
-  * :package: :pencil: tidyr [Rectangling](https://tidyr.tidyverse.org/dev/articles/rectangle.html) [Pivoting](https://tidyr.tidyverse.org/dev/articles/pivot.html)
+  * :package: :notebook: tidyr [Rectangling](https://tidyr.tidyverse.org/dev/articles/rectangle.html) [Pivoting](https://tidyr.tidyverse.org/dev/articles/pivot.html)
   * :book: [Using R and the tidyverse for Data Science: Workshop materials](https://github.com/wjakethompson/tidy-ds-workshop)
+  * :notebook: [A missing value tour in R](http://juliejosse.com/wp-content/uploads/2019/07/useRjosse_2019.pdf)
+
 
  ## Packages
   * :book: [Writing R Extensions (CRAN)](https://cran.r-project.org/doc/manuals/R-exts.html)
@@ -197,15 +199,18 @@ Key:
   * :book: [Summer of blogdown](https://summer-of-blogdown.netlify.com/)
   * :notebook: [Twitter thread: Creating an academic website with blogdown](https://twitter.com/dsquintana/status/1139846569623281664)
 
-## Other Stuff
-  * :package: [Tesseract 4: State of the art OCR in R](https://github.com/ropensci/tesseract)
-  * :package: [magick: Advanced Image-Processing in R](https://docs.ropensci.org/magick/)
-  * :notebook: [Master R shiny: One trick to build maintainable and scaleable event chains](https://www.statworx.com/de/blog/master-r-shiny-one-trick-to-build-maintainable-and-scalable-event-chains/)
-  * :notebook: [Writing scrapers](http://docs.opencivicdata.org/en/latest/scrape/index.html)
-  * :book: [rstudio::conf 2019 materials](https://github.com/kbroman/RStudioConf2019Slides)
+## PDF & Image Processing
   * :notebook: :package: [Getting data from pdfs using the pdftools package](https://www.brodrigues.co/blog/2018-06-10-scraping_pdfs/)
   * :notebook: :package: [Join, split, and compress PDF files with pdftools](https://ropensci.org/technotes/2019/04/24/pdftools-22/)
+  * :package: [Tesseract 4: State of the art OCR in R](https://github.com/ropensci/tesseract)
+  * :package: [magick: Advanced Image-Processing in R](https://docs.ropensci.org/magick/)
+  
+## Web Scraping
+  * :notebook: [Writing scrapers](http://docs.opencivicdata.org/en/latest/scrape/index.html)
   * :package: [polite: Be Nice on the Web](https://dmi3kno.github.io/polite/)
-  * :notebook: [A missing value tour in R](http://juliejosse.com/wp-content/uploads/2019/07/useRjosse_2019.pdf)
+  * :package: [rvest](https://rvest.tidyverse.org/)
+  
+## Misc
+  * :book: [rstudio::conf 2019 materials](https://github.com/kbroman/RStudioConf2019Slides)
   * :book: [useR2019 materials](https://github.com/sowla/useR2019-materials)
   * :notebook: [Statistical metamerism](https://eliocamp.github.io/codigo-r/en/2019/01/statistical-metamerism/)
