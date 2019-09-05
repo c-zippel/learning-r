@@ -4,7 +4,7 @@
 
 Key:   
 :book: Ebook / Course/conference materials  
-:pencil: Blog post / Tutorial  
+:pencil: Blog post / Tutorial / Vignette
 :package: R package  
 :tv: Slide deck  
 :foggy: Mapping  
@@ -70,7 +70,7 @@ Key:
   * :package: [panelr](https://www.jacob-long.com/post/panelr-intro/)
   * :package: [summarytools](https://github.com/dcomtois/summarytools)
   * :package: [skimr](https://github.com/ropensci/skimr)
-  * :package: tidyr [Rectangling](https://tidyr.tidyverse.org/dev/articles/rectangle.html) [Pivoting](https://tidyr.tidyverse.org/dev/articles/pivot.html)
+  * :package: :pencil: tidyr [Rectangling](https://tidyr.tidyverse.org/dev/articles/rectangle.html) [Pivoting](https://tidyr.tidyverse.org/dev/articles/pivot.html)
   * :book: [Using R and the tidyverse for Data Science: Workshop materials](https://github.com/wjakethompson/tidy-ds-workshop)
 
  ## Packages
