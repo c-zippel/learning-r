@@ -71,6 +71,7 @@ Key:
   * :package: [summarytools](https://github.com/dcomtois/summarytools)
   * :package: [skimr](https://github.com/ropensci/skimr)
   * :package: :notebook: tidyr [Rectangling](https://tidyr.tidyverse.org/dev/articles/rectangle.html) [Pivoting](https://tidyr.tidyverse.org/dev/articles/pivot.html)
+  * :notebook: :package: [Data Pivoting with tidyr](https://blog.methodsconsultants.com/posts/data-pivoting-with-tidyr/)
   * :book: [Using R and the tidyverse for Data Science: Workshop materials](https://github.com/wjakethompson/tidy-ds-workshop)
   * :notebook: [A missing value tour in R](http://juliejosse.com/wp-content/uploads/2019/07/useRjosse_2019.pdf)
 
