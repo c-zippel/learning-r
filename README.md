@@ -75,6 +75,9 @@ Key:
   * :tv: :package: [A Graphical Introduction to tidyr's pivot_*()](https://speakerdeck.com/yutannihilation/a-graphical-introduction-to-tidyrs-pivot-star)
   * :book: [Using R and the tidyverse for Data Science: Workshop materials](https://github.com/wjakethompson/tidy-ds-workshop)
   * :notebook: [A missing value tour in R](http://juliejosse.com/wp-content/uploads/2019/07/useRjosse_2019.pdf)
+  * :package: [tidycells: Automatic transformation of untidy spreadsheet-like data into tidy form](https://github.com/r-rudra/tidycells)
+  * :package: [tidyxl: Read untidy Excel files in R](https://github.com/nacnudus/tidyxl)
+  * :packge: [unheadr: Handle Data With Embedded Subheaders](https://github.com/luisDVA/unheadr)
 
 
  ## Packages
