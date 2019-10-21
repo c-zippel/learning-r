@@ -111,6 +111,7 @@ Key:
   * :package: [here: A simpler way to find your files](https://github.com/r-lib/here)
   * :notebook: :package: [Ode to the here package](https://github.com/jennybc/here_here)
   * :book: [File organization best practices](https://andrewbtran.github.io/NICAR/2018/workflow/docs/01-workflow_intro.html)
+  * :notebook: [R Studio Shortcuts and Tips](https://appsilon.com/r-studio-shortcuts-and-tips/)
 ### Style
   * :book: [R Style Guide](http://adv-r.had.co.nz/Style.html)
   * :book: [The tidyverse Style Guide](https://style.tidyverse.org/)
