@@ -9,6 +9,7 @@ Key:
 :tv: Slide deck  
 :foggy: Mapping  
 :chart_with_upwards_trend: Data vis  
+:clock12: Time series data
 
 
 
@@ -60,27 +61,37 @@ Key:
 ## Data Carpentry
   * :package: [dplyr: A Grammar of Data Manipulation](https://dplyr.tidyverse.org/index.html)
   * [Row-oriented workflows in R with the tidyverse](https://github.com/jennybc/row-oriented-workflows)
-  * :package: [cdata: Fluid Data Transformations](https://winvector.github.io/cdata/)
-  * :notebook: :package: [Designing Transforms for Data Reshaping with cdata](http://www.win-vector.com/blog/2018/10/designing-transforms-for-data-reshaping-with-cdata/)
-  * :notebook: [How to perform merges (joins) on two or more data frames with base R, tidyverse and data.table](https://jozefhajnala.gitlab.io/r/r006-merge/)
   * :package: [stringi: String/text processing](http://www.gagolewski.com/software/stringi/)
   * :package: [stringr: Consistent wrappers for common string operations](https://stringr.tidyverse.org/reference/index.html)
   * :book: [A tidyverse cookbook](https://rstudio-education.github.io/tidyverse-cookbook/)
   * :package: [vroom](https://www.tidyverse.org/articles/2019/05/vroom-1-0-0/)
-  * :package: [panelr](https://www.jacob-long.com/post/panelr-intro/)
-  * :package: [summarytools](https://github.com/dcomtois/summarytools)
-  * :package: [skimr](https://github.com/ropensci/skimr)
-  * :package: :notebook: tidyr [Rectangling](https://tidyr.tidyverse.org/dev/articles/rectangle.html) [Pivoting](https://tidyr.tidyverse.org/dev/articles/pivot.html)
+  * :book: [Using R and the tidyverse for Data Science: Workshop materials](https://github.com/wjakethompson/tidy-ds-workshop)
+
+### Reshaping / Joining
+  * :notebook: :package: tidyr [Rectangling](https://tidyr.tidyverse.org/dev/articles/rectangle.html) [Pivoting](https://tidyr.tidyverse.org/dev/articles/pivot.html)
   * :notebook: :package: [Data Pivoting with tidyr](https://blog.methodsconsultants.com/posts/data-pivoting-with-tidyr/)
   * :tv: :package: [A Graphical Introduction to tidyr's pivot_*()](https://speakerdeck.com/yutannihilation/a-graphical-introduction-to-tidyrs-pivot-star)
-  * :book: [Using R and the tidyverse for Data Science: Workshop materials](https://github.com/wjakethompson/tidy-ds-workshop)
-  * :notebook: [A missing value tour in R](http://juliejosse.com/wp-content/uploads/2019/07/useRjosse_2019.pdf)
+  * :notebook: [How to perform merges (joins) on two or more data frames with base R, tidyverse and data.table](https://jozefhajnala.gitlab.io/r/r006-merge/)
+
+### Spreadsheets
   * :package: [tidycells: Automatic transformation of untidy spreadsheet-like data into tidy form](https://github.com/r-rudra/tidycells)
   * :package: [tidyxl: Read untidy Excel files in R](https://github.com/nacnudus/tidyxl)
-  * :packge: [unheadr: Handle Data With Embedded Subheaders](https://github.com/luisDVA/unheadr)
+  * :package: [unheadr: Handle Data With Embedded Subheaders](https://github.com/luisDVA/unheadr)
+  
+### Time Series
+  * :package: :clock12: [tsibble: Tidy Temporal Data Frames and Tools](https://tsibble.tidyverts.org/)
+  * :package: :clock12: [panelr](https://www.jacob-long.com/post/panelr-intro/)
+  * :package: :clock12: [zoo: S3 Infrastructure for Regular and Irregular Time Series](https://cran.r-project.org/web/packages/zoo/index.html)
+  * :package: :clock12: [slide: Sliding Window Functions](https://davisvaughan.github.io/slide/)
+  
+### Summary Stats
+  * :package: [summarytools](https://github.com/dcomtois/summarytools)
+  * :package: [skimr](https://github.com/ropensci/skimr)  
 
+### Missing Values
+  * :notebook: [A missing value tour in R](http://juliejosse.com/wp-content/uploads/2019/07/useRjosse_2019.pdf)
 
- ## Packages
+## Packages
   * :book: [Writing R Extensions (CRAN)](https://cran.r-project.org/doc/manuals/R-exts.html)
   * :book: [R Packages](http://r-pkgs.had.co.nz/)
   * [Best practices for API packages](https://cran.r-project.org/web/packages/httr/vignettes/api-packages.html)
@@ -93,6 +104,8 @@ Key:
   * :package: [usethis workflow for package development](https://www.hvitfeldt.me/blog/usethis-workflow-for-package-development/)
   * :package: [DataPackageR: An R package to enable reproducible data processing, packaging and sharing](https://github.com/ropensci/DataPackageR)
   * :package: [sinew](https://github.com/metrumresearchgroup/sinew)
+  
+
   
 ## Workflow & Reproducibility
   * :notebook: [Excuse me, do you have a moment to talk about version control?](https://peerj.com/preprints/3159/)
