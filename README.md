@@ -58,14 +58,18 @@ Key:
   * :notebook:  [match.arg: A weird function that can help you write better functions](https://alistaire.rbind.io/blog/match.arg/)
   * :tv: [Reusing tidyverse code](https://speakerdeck.com/lionelhenry/reusing-tidyverse-code)
   
+  * :book: [Using R and the tidyverse for Data Science: Workshop materials](https://github.com/wjakethompson/tidy-ds-workshop)  
+    * :book: [A tidyverse cookbook](https://rstudio-education.github.io/tidyverse-cookbook/)
+    
 ## Data Carpentry
   * :package: [dplyr: A Grammar of Data Manipulation](https://dplyr.tidyverse.org/index.html)
-  * [Row-oriented workflows in R with the tidyverse](https://github.com/jennybc/row-oriented-workflows)
-  * :package: [stringi: String/text processing](http://www.gagolewski.com/software/stringi/)
+  * :notebook: [Row-oriented workflows in R with the tidyverse](https://github.com/jennybc/row-oriented-workflows)
   * :package: [stringr: Consistent wrappers for common string operations](https://stringr.tidyverse.org/reference/index.html)
-  * :book: [A tidyverse cookbook](https://rstudio-education.github.io/tidyverse-cookbook/)
-  * :package: [vroom](https://www.tidyverse.org/articles/2019/05/vroom-1-0-0/)
-  * :book: [Using R and the tidyverse for Data Science: Workshop materials](https://github.com/wjakethompson/tidy-ds-workshop)
+  * :package: [janitor: simple tools for data cleaning in R](http://sfirke.github.io/janitor/)
+  
+### File Import / Manipulation
+  * :package: [vroom: Fast reading of delimited files](https://vroom.r-lib.org/)
+  * :package: [fs: Provide cross platform file operations based on libuv](https://fs.r-lib.org/)
 
 ### Reshaping / Joining
   * :notebook: :package: tidyr [Rectangling](https://tidyr.tidyverse.org/dev/articles/rectangle.html) [Pivoting](https://tidyr.tidyverse.org/dev/articles/pivot.html)
@@ -90,6 +94,7 @@ Key:
 
 ### Missing Values
   * :notebook: [A missing value tour in R](http://juliejosse.com/wp-content/uploads/2019/07/useRjosse_2019.pdf)
+  * :package: [naniar: Tidy data structures, summaries, and visualisations for missing data](http://naniar.njtierney.com/)
 
 ## Packages
   * :book: [Writing R Extensions (CRAN)](https://cran.r-project.org/doc/manuals/R-exts.html)
