@@ -33,16 +33,33 @@ Key:
   * :book: [Answering questions with data](https://crumplab.github.io/statistics/)
   
 ## Programming
+
+### General
   * :book: [Advanced R](https://adv-r.hadley.nz/)
+  * :book: [Efficient R programming](https://csgillespie.github.io/efficientR/)
+  * :book: [The R Inferno](http://www.burns-stat.com/pages/Tutor/R_inferno.pdf)
+ 
+    * :book: [Using R and the tidyverse for Data Science: Workshop materials](https://github.com/wjakethompson/tidy-ds-workshop)  
+    * :book: [A tidyverse cookbook](https://rstudio-education.github.io/tidyverse-cookbook/)
+  
+### Error Handling
   * :notebook: [Beyond Exception Handling: Conditions and Restarts](http://adv-r.had.co.nz/beyond-exception-handling.html)
   * :notebook: [Handling R errors the rlang way](https://www.onceupondata.com/2018/09/28/handling-r-errors/)
   * :notebook: [rlang Errors, conditions, and backtraces](https://rlang.r-lib.org/reference/index.html#section-errors-conditions-and-backtraces)
   * :notebook: [Reducing bewilderment by improving errors](https://www.dropbox.com/s/fi5fswytwatw1kk/condition-erum.pdf)
-  * :book: [Efficient R programming](https://csgillespie.github.io/efficientR/)
+  * :notebook: [Using tryCatch for robust R scripts](https://rsangole.netlify.com/post/try-catch/)
+  * :package: [attempt: Tools for defensive programming in R](https://github.com/ColinFay/attempt)
+  * :notebook: [match.arg: A weird function that can help you write better functions](https://alistaire.rbind.io/blog/match.arg/)
+  
+### Metaprogramming
   * :book: [Tidy evaluation](https://tidyeval.tidyverse.org/)
   * :notebook: :package: [Quoting in R](http://www.win-vector.com/blog/2018/11/quoting-in-r/)
-  * :book: [The R Inferno](http://www.burns-stat.com/pages/Tutor/R_inferno.pdf)
-  * :notebook: [Writing a function factory](http://stat545.com/bit007_draw-the-rest-of-the-owl.html)
+  * :tv: [Selecting and doing with tidyeval](https://speakerdeck.com/lionelhenry/selecting-and-doing-with-tidy-eval)
+  * :tv: [Tidyeval in context](https://speakerdeck.com/jennybc/tidy-eval-in-context)
+  * :tv: [Reusing tidyverse code](https://speakerdeck.com/lionelhenry/reusing-tidyverse-code)
+  * :package: :notebook: [rlang 0.4.0](https://www.tidyverse.org/blog/2019/06/rlang-0-4-0/)
+  
+ ### Iteration
   * :package: :package: [purr: Functional Programming Tools](https://purrr.tidyverse.org/index.html)
   * :notebook: :package: [purrr tutorial](https://jennybc.github.io/purrr-tutorial/index.html)
   * :book: :package: [purrr cookbook](http://colinfay.me/purrr-cookbook/)
@@ -50,26 +67,20 @@ Key:
   * :notebook: :package: [Purrr - tips and tricks](https://www.hvitfeldt.me/blog/purrr-tips-and-tricks/)
   * :notebook: :package: [Going Off the Map: Exploring purrr's Other Functions](https://hookedondata.org/going-off-the-map/)
   * :notebook: :package: [Getting started with the purrr package](https://data.library.virginia.edu/getting-started-with-the-purrr-package-in-r/)
-  * :notebook: [Using tryCatch for robust R scripts](https://rsangole.netlify.com/post/try-catch/)
-  * :tv: [Selecting and doing with tidyeval](https://speakerdeck.com/lionelhenry/selecting-and-doing-with-tidy-eval)
-  * :tv: [Tidyeval in context](https://speakerdeck.com/jennybc/tidy-eval-in-context)
-  * :notebook: :package: [Functional programming helpers from purrr and friends, part 3](https://www.eokodie.com/blog/functional-programming-helpers-from-purrr-and-friends-part-3/)
-  * :package: [attempt: Tools for defensive programming in R](https://github.com/ColinFay/attempt)
-  * :notebook:  [match.arg: A weird function that can help you write better functions](https://alistaire.rbind.io/blog/match.arg/)
-  * :tv: [Reusing tidyverse code](https://speakerdeck.com/lionelhenry/reusing-tidyverse-code)
+    * :notebook: :package: [Functional programming helpers from purrr and friends, part 3](https://www.eokodie.com/blog/functional-programming-helpers-from-purrr-and-friends-part-3/)
+     * :notebook: [Writing a function factory](http://stat545.com/bit007_draw-the-rest-of-the-owl.html)
   
-  * :book: [Using R and the tidyverse for Data Science: Workshop materials](https://github.com/wjakethompson/tidy-ds-workshop)  
-    * :book: [A tidyverse cookbook](https://rstudio-education.github.io/tidyverse-cookbook/)
-    
 ## Data Carpentry
   * :package: [dplyr: A Grammar of Data Manipulation](https://dplyr.tidyverse.org/index.html)
   * :notebook: [Row-oriented workflows in R with the tidyverse](https://github.com/jennybc/row-oriented-workflows)
   * :package: [stringr: Consistent wrappers for common string operations](https://stringr.tidyverse.org/reference/index.html)
+  * :package: [glue: Small, fast, dependency free interpreted string literals.](https://github.com/tidyverse/glue)
   * :package: [janitor: simple tools for data cleaning in R](http://sfirke.github.io/janitor/)
   
 ### File Import / Manipulation
   * :package: [vroom: Fast reading of delimited files](https://vroom.r-lib.org/)
   * :package: [fs: Provide cross platform file operations based on libuv](https://fs.r-lib.org/)
+  * :package: [jsonlite: A Robust, High Performance JSON Parser and Generator for R](https://github.com/jeroen/jsonlite)
 
 ### Reshaping / Joining
   * :notebook: :package: tidyr [Rectangling](https://tidyr.tidyverse.org/dev/articles/rectangle.html) [Pivoting](https://tidyr.tidyverse.org/dev/articles/pivot.html)
