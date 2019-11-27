@@ -215,7 +215,7 @@ Key:
   * :package: [ipumsr: IPUMS Data in R](https://github.com/mnpopcenter/ipumsr)
   * :package: [blsAPI: BLS API wrapper for R](https://github.com/mikeasilva/blsAPI)
   * :package: [fredr: An R client for the Federal Reserve Economic Data (FRED) API](https://sboysel.github.io/fredr/)
-  * :packgae: [censusxy: R package for calling the U.S. Census Bureau's Geocoder API](https://slu-opengis.github.io/censusxy/)
+  * :package: [censusxy: R package for calling the U.S. Census Bureau's Geocoder API](https://slu-opengis.github.io/censusxy/)
   
 
 ## Spatial Analysis
@@ -261,17 +261,16 @@ Key:
   * :package: [magick: Advanced Image-Processing in R](https://docs.ropensci.org/magick/)
 
 
-
 ## Scraping
   * :package: [rvest: Easy web scraping with R](https://rvest.tidyverse.org/)
   * :notebook: [Writing scrapers](http://docs.opencivicdata.org/en/latest/scrape/index.html)
   * :package: [polite: Be Nice on the Web](https://dmi3kno.github.io/polite/)
   * :package: [robotstxt: robots.txt file parsing and checking for R](https://docs.ropensci.org/robotstxt)
-  * package: [httr: a friendly http package for R](https://httr.r-lib.org)
+  * :package: [httr: a friendly http package for R](https://httr.r-lib.org)
   * :package: [pdftools: Text Extraction, Rendering and Converting of PDF Documents](https://docs.ropensci.org/pdftools/)
   * :notebook: [Join, split, and compress PDF files with pdftools](https://ropensci.org/technotes/2019/04/24/pdftools-22/)
   * :notebook: [Getting data from pdfs using the pdftools package](https://www.brodrigues.co/blog/2018-06-10-scraping_pdfs/)
-  :package: [tesseract: Bindings to Tesseract OCR engine for R](https://docs.ropensci.org/tesseract)
+  * :package: [tesseract: Bindings to Tesseract OCR engine for R](https://docs.ropensci.org/tesseract)
 
 
 ## Misc
