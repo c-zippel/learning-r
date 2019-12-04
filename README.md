@@ -17,7 +17,6 @@ Key:
   * :book: [R for teams in the data sciences](https://github.com/datascience-uwmadison/R_for_data_sciences)
   * :book: [Stats with R](https://mgimond.github.io/Stats-in-R/index.html)
   * :book: [Exploratory Data Analysis in R](https://mgimond.github.io/ES218/index.html)
-  * :book: [The Tentpoles of Data Science](https://simplystatistics.org/2019/01/18/the-tentpoles-of-data-science/)
   * :book: [R4DS Online Learning Community](https://www.rfordatasci.com/)
   * :book: [Mastering Software Development in R](https://bookdown.org/rdpeng/RProgDA/)
   * :book: [Statistical Inference via Data Science: A moderndive into R and the tidyverse](https://moderndive.com/)
