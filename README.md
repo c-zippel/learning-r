@@ -118,7 +118,7 @@ Key:
   * :notebook: [Developing R Packages with R Studio](https://support.rstudio.com/hc/en-us/articles/200486488-Developing-Packages-with-RStudio)
   * :tv: [Making R Packages](https://github.com/skirmer/r_packages/blob/master/r_packages_slides.pdf)
   * :book: [R packages primer](https://kbroman.org/p
-  * :notebook: [What R version do you really need for a package?](https://www.jumpingrivers.com/blkg_primer/)og/what-r-version-do-you-really-need-for-a-package/)
+  * :notebook: [What R version do you really need for a package?](https://www.jumpingrivers.com/blog/what-r-version-do-you-really-need-for-a-package/)
   * :tv: [R Packages for Team Collaboration](https://github.com/skirmer/odsc2018/blob/master/R_Packages_Collaboration_ODSC.pdf)
   
 ### Documentation
@@ -193,8 +193,6 @@ Key:
   * :notebook: [Collapsible Code Output for xaringan](https://gist.github.com/emitanaka/eaa258bb8471c041797ff377704c8505)
   
 ### Tables
-  * :package: [formattable: Formattable Data Structures](https://github.com/renkun-ken/formattable)
-  * :package: [flextable: table farming](https://davidgohel.github.io/flextable/)
   * :package: [DT: An R interface to the DataTables library](https://rstudio.github.io/DT/)
   * :package: [reactable: Interactive data tables for R](https://glin.github.io/reactable/index.html)
   * :package: [flextable: Functions for Tabular Reporting](https://davidgohel.github.io/flextable/index.html)
