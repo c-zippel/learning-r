@@ -86,9 +86,11 @@ Key:
   * :notebook: [How to perform merges (joins) on two or more data frames with base R, tidyverse and data.table](https://jozefhajnala.gitlab.io/r/r006-merge/)
 
 ### Spreadsheets
-  * :package: [tidycells: Automatic transformation of untidy spreadsheet-like data into tidy form](https://github.com/r-rudra/tidycells)
-  * :package: [tidyxl: Read untidy Excel files in R](https://github.com/nacnudus/tidyxl)
+  * :package: [tidycells: Automatic transformation of untidy spreadsheet-like data into tidy form](https://r-rudra.github.io/tidycells/index.html)
+  * :package: [tidyxl: Read untidy Excel files in R](https://nacnudus.github.io/tidyxl/)
   * :package: [unheadr: Handle Data With Embedded Subheaders](https://github.com/luisDVA/unheadr)
+  * :package: [unpivotr: Unpivot complex and irregular data layouts in R](https://nacnudus.github.io/unpivotr/)
+  * :book: [Spreadsheet Munging Strategies](https://nacnudus.github.io/spreadsheet-munging-strategies/index.html)
 
 ### Time Series
   * :package: [tsibble: Tidy Temporal Data Frames and Tools](https://tsibble.tidyverts.org/)
