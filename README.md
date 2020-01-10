@@ -254,6 +254,7 @@ Key:
 ## Data Vis
   * :book: [Fundamentals of Data Visualization](https://serialmentor.com/dataviz/)
   * :book: [Data Visualization: A practical introduction](http://socviz.co/)
+  * :book: [ggplot2: Elegant Graphics for Data Analysis](https://ggplot2-book.org/)
   * :book: [R Graphics Cookbook](https://r-graphics.org/)
   * :book: [Graphs - Cookbook for R](http://www.cookbook-r.com/Graphs/)
   * :package: [ggtext: Improved text rendering for ggplot2](https://github.com/clauswilke/ggtext)
