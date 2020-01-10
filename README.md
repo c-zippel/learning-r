@@ -72,12 +72,13 @@ Key:
   * :package: [stringr: Consistent wrappers for common string operations](https://stringr.tidyverse.org/reference/index.html)
   * :package: [glue: Small, fast, dependency free interpreted string literals.](https://github.com/tidyverse/glue)
   * :package: [janitor: simple tools for data cleaning in R](http://sfirke.github.io/janitor/)
+  * :package: [labelled: Manipulating labelled vectors in R](http://larmarange.github.io/labelled/)
 
 ### File Import / Manipulation
   * :package: [vroom: Fast reading of delimited files](https://vroom.r-lib.org/)
   * :package: [fs: Provide cross platform file operations based on libuv](https://fs.r-lib.org/)
   * :package: [jsonlite: A Robust, High Performance JSON Parser and Generator for R](https://github.com/jeroen/jsonlite)
- * :package: [here: A simpler way to find your files](https://github.com/r-lib/here)
+  * :package: [here: A simpler way to find your files](https://github.com/r-lib/here)
 
 ### Reshaping / Joining
   * :notebook: tidyr [Rectangling](https://tidyr.tidyverse.org/dev/articles/rectangle.html) [Pivoting](https://tidyr.tidyverse.org/dev/articles/pivot.html)
@@ -119,9 +120,11 @@ Key:
   * :book: [R Packages](http://r-pkgs.had.co.nz/)
   * :notebook: [Developing R Packages with R Studio](https://support.rstudio.com/hc/en-us/articles/200486488-Developing-Packages-with-RStudio)
   * :tv: [Making R Packages](https://github.com/skirmer/r_packages/blob/master/r_packages_slides.pdf)
-  * :book: [R packages primer](https://kbroman.org/p
+  * :book: [R package primer: a minimal tutorial](https://kbroman.org/pkg_primer/)
   * :notebook: [What R version do you really need for a package?](https://www.jumpingrivers.com/blog/what-r-version-do-you-really-need-for-a-package/)
+  * :notebook: [Internal functions in R packages](https://blog.r-hub.io/2019/12/12/internal-functions/)
   * :tv: [R Packages for Team Collaboration](https://github.com/skirmer/odsc2018/blob/master/R_Packages_Collaboration_ODSC.pdf)
+  * :notebook: [Writing Proprietary R Packages](https://unconj.ca/blog/writing-proprietary-r-packages.html)
   
 ### Documentation
   * :package: [roxygen2: Generate R package documentation from inline R comments](https://roxygen2.r-lib.org)
@@ -146,6 +149,7 @@ Key:
 
 ### Version Control & Collaboration
   * :notebook: [Excuse me, do you have a moment to talk about version control?](https://peerj.com/preprints/3159/)
+  * :notebook: [Git can facilitate greater reproducibility and increased transparency in science](https://scfbm.biomedcentral.com/articles/10.1186/1751-0473-8-7)
   * :book: [Happy Git and GitHub for the useR](http://happygitwithr.com/)
   * :package: [gitignore: A R interface to fetch gitignore templates from gitignore.io](https://docs.ropensci.org/gitignore/)
   * :tv: [R Packages for Team Collaboration](https://github.com/skirmer/odsc2018/blob/master/R_Packages_Collaboration_ODSC.pdf)
@@ -158,7 +162,7 @@ Key:
   * :notebook: [Project-oriented workflow](https://www.tidyverse.org/articles/2017/12/workflow-vs-script/)
   * :book: [File organization best practices](https://andrewbtran.github.io/NICAR/2018/workflow/docs/01-workflow_intro.html)
   * :notebook: [Best Practices for Data Science Project Workflows and File Organization](https://github.com/moldach/project-directory)
- * :notebook: [R Studio Shortcuts and Tips](https://appsilon.com/r-studio-shortcuts-and-tips/)
+  * :notebook: [R Studio Shortcuts and Tips](https://appsilon.com/r-studio-shortcuts-and-tips/)
 
 ### Style
   * :book: [R Style Guide](http://adv-r.had.co.nz/Style.html)
