@@ -95,7 +95,7 @@ Key:
 
 ### Time Series
   * :package: [tsibble: Tidy Temporal Data Frames and Tools](https://tsibble.tidyverts.org/)
-  * :package: [panelr](https://www.jacob-long.com/post/panelr-intro/)
+  * :package: [panelr: Regression Models and Utilities for Repeated Measures and Panel Data](https://www.jacob-long.com/post/panelr-intro/)
   * :package: [zoo: S3 Infrastructure for Regular and Irregular Time Series](https://cran.r-project.org/web/packages/zoo/index.html)
   * :package:  [slide: Sliding Window Functions](https://davisvaughan.github.io/slide/)
 
