@@ -92,6 +92,7 @@ Key:
   * :package: [unheadr: Handle Data With Embedded Subheaders](https://github.com/luisDVA/unheadr)
   * :package: [unpivotr: Unpivot complex and irregular data layouts in R](https://nacnudus.github.io/unpivotr/)
   * :book: [Spreadsheet Munging Strategies](https://nacnudus.github.io/spreadsheet-munging-strategies/index.html)
+  * :package: [docxtractr: Extract Data Tables and Comments from ‘Microsoft’ ‘Word’ Documents](https://github.com/hrbrmstr/docxtractr)
 
 ### Time Series
   * :package: [tsibble: Tidy Temporal Data Frames and Tools](https://tsibble.tidyverts.org/)
@@ -141,6 +142,7 @@ Key:
 ### Reproducibility
   * :book: [The Practice of Reproducible Research](https://www.practicereproducibleresearch.org/)
   * :book: [Introduction To Reproducible Science In R (Part I)](https://cartesianfaith.files.wordpress.com/2018/11/rowe-introduction-to-reproducible-science-part-i-20181113.pdf)
+  * :book: [A Realistic Guide to Making Data Available Alongside Code to Improve Reproducibility(https://karthik.github.io/ddd/)
   * :book: [Reproducibility in Science](https://ropensci.github.io/reproducibility-guide/)
   * :notebook: [Rmd first: When development starts with documentation](https://rtask.thinkr.fr/when-development-starts-with-documentation/)
   * :notebook: [The "Gold Standard" for Data Science Project Management](https://towardsdatascience.com/the-gold-standard-of-data-science-project-management-13d68c9e85d6)
@@ -227,6 +229,7 @@ Key:
   * :book: [Spatial Data Science](https://keen-swartz-3146c4.netlify.com/)
   * :book: [Spatial and Spatiotemporal Data Analysis in R](https://github.com/edzer/User2019)
   * :package: [sf: Simple Features for R](https://r-spatial.github.io/sf/articles/sf1.html)
+  * :package: [crsuggest: Get appropriate CRS suggestions for your spatial data in R](https://github.com/walkerke/crsuggest)
   * :notebook: [Point-in-polygon with sf](https://mattherman.info/blog/point-in-poly/)
   * :notebook: [Tidy spatial data in R: using dplyr, tidyr, and ggplot2 with sf](http://strimas.com/r/tidy-sf/)
   * :notebook: [Comparing Free geocoding engines](http://www.adelieresources.com/2019/01/comparing-free-geocoding-engines/)
@@ -257,6 +260,7 @@ Key:
   * :book: [ggplot2: Elegant Graphics for Data Analysis](https://ggplot2-book.org/)
   * :book: [R Graphics Cookbook](https://r-graphics.org/)
   * :book: [Graphs - Cookbook for R](http://www.cookbook-r.com/Graphs/)
+  * :notebook: [Awesome ggplot2](https://github.com/erikgahner/awesome-ggplot2)
   * :package: [ggtext: Improved text rendering for ggplot2](https://github.com/clauswilke/ggtext)
   * :package: [ggrepel: Repel overlapping text labels away from each other](https://ggrepel.slowkow.com/)
   * :package: [ggpubr: ggplot2 Based Publication Ready Plots](https://rpkgs.datanovia.com/ggpubr/index.html)
