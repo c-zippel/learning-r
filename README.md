@@ -142,7 +142,7 @@ Key:
 ### Reproducibility
   * :book: [The Practice of Reproducible Research](https://www.practicereproducibleresearch.org/)
   * :book: [Introduction To Reproducible Science In R (Part I)](https://cartesianfaith.files.wordpress.com/2018/11/rowe-introduction-to-reproducible-science-part-i-20181113.pdf)
-  * :book: [A Realistic Guide to Making Data Available Alongside Code to Improve Reproducibility(https://karthik.github.io/ddd/)
+  * :book: [A Realistic Guide to Making Data Available Alongside Code to Improve Reproducibility](https://karthik.github.io/ddd/)
   * :book: [Reproducibility in Science](https://ropensci.github.io/reproducibility-guide/)
   * :notebook: [Rmd first: When development starts with documentation](https://rtask.thinkr.fr/when-development-starts-with-documentation/)
   * :notebook: [The "Gold Standard" for Data Science Project Management](https://towardsdatascience.com/the-gold-standard-of-data-science-project-management-13d68c9e85d6)
