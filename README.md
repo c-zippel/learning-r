@@ -89,7 +89,7 @@ Key:
 ### Spreadsheets
   * :package: [tidycells: Automatic transformation of untidy spreadsheet-like data into tidy form](https://r-rudra.github.io/tidycells/index.html)
   * :package: [tidyxl: Read untidy Excel files in R](https://nacnudus.github.io/tidyxl/)
-  * :package: [unheadr: Handle Data With Embedded Subheaders](https://github.com/luisDVA/unheadr)
+  * :package: [unheadr: Handle Data With Embedded Subheaders](https://unheadr.liomys.mx/)
   * :package: [unpivotr: Unpivot complex and irregular data layouts in R](https://nacnudus.github.io/unpivotr/)
   * :book: [Spreadsheet Munging Strategies](https://nacnudus.github.io/spreadsheet-munging-strategies/index.html)
   * :package: [docxtractr: Extract Data Tables and Comments from ‘Microsoft’ ‘Word’ Documents](https://github.com/hrbrmstr/docxtractr)
