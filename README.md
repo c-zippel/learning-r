@@ -126,6 +126,7 @@ Key:
   * :notebook: [Internal functions in R packages](https://blog.r-hub.io/2019/12/12/internal-functions/)
   * :tv: [R Packages for Team Collaboration](https://github.com/skirmer/odsc2018/blob/master/R_Packages_Collaboration_ODSC.pdf)
   * :notebook: [Writing Proprietary R Packages](https://unconj.ca/blog/writing-proprietary-r-packages.html)
+  * :notebook: [Why and how maintain a NEWS file for your R package](https://blog.r-hub.io/2020/05/08/pkg-news/)
   
 ### Documentation
   * :package: [roxygen2: Generate R package documentation from inline R comments](https://roxygen2.r-lib.org)
@@ -154,6 +155,7 @@ Key:
   * :notebook: [Git can facilitate greater reproducibility and increased transparency in science](https://scfbm.biomedcentral.com/articles/10.1186/1751-0473-8-7)
   * :book: [Happy Git and GitHub for the useR](http://happygitwithr.com/)
   * :package: [gitignore: A R interface to fetch gitignore templates from gitignore.io](https://docs.ropensci.org/gitignore/)
+  * :notebook: [How to Write a Git Commit Message, in 7 Steps](https://paulvanderlaken.com/2020/05/11/how-to-write-git-commit-message-7-steps/)
   * :tv: [R Packages for Team Collaboration](https://github.com/skirmer/odsc2018/blob/master/R_Packages_Collaboration_ODSC.pdf)
   * :package: [redoc: Reversible Reproducible Documents](https://noamross.github.io/redoc/index.html)
 
@@ -261,6 +263,7 @@ Key:
   * :book: [R Graphics Cookbook](https://r-graphics.org/)
   * :book: [Graphs - Cookbook for R](http://www.cookbook-r.com/Graphs/)
   * :notebook: [Awesome ggplot2](https://github.com/erikgahner/awesome-ggplot2)
+  * :package: [ggplot2 extensions gallery](https://exts.ggplot2.tidyverse.org/gallery/)
   * :package: [ggtext: Improved text rendering for ggplot2](https://github.com/clauswilke/ggtext)
   * :package: [ggrepel: Repel overlapping text labels away from each other](https://ggrepel.slowkow.com/)
   * :package: [ggpubr: ggplot2 Based Publication Ready Plots](https://rpkgs.datanovia.com/ggpubr/index.html)
