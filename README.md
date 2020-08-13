@@ -78,7 +78,7 @@ Key:
   * :package: [vroom: Fast reading of delimited files](https://vroom.r-lib.org/)
   * :package: [fs: Provide cross platform file operations based on libuv](https://fs.r-lib.org/)
   * :package: [jsonlite: A Robust, High Performance JSON Parser and Generator for R](https://github.com/jeroen/jsonlite)
-  * :package: [here: A simpler way to find your files](https://github.com/r-lib/here)
+  * :package: [here: A simpler way to find your files](https://here.r-lib.org/)
 
 ### Reshaping / Joining
   * :notebook: tidyr [Rectangling](https://tidyr.tidyverse.org/dev/articles/rectangle.html) [Pivoting](https://tidyr.tidyverse.org/dev/articles/pivot.html)
