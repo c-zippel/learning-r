@@ -206,6 +206,7 @@ Key:
   * :package: [DT: An R interface to the DataTables library](https://rstudio.github.io/DT/)
   * :package: [reactable: Interactive data tables for R](https://glin.github.io/reactable/index.html)
   * :package: [flextable: Functions for Tabular Reporting](https://davidgohel.github.io/flextable/index.html)
+  * :package: [huxtable: Easily Create and Style Tables for LaTeX, HTML and Other Formats.](https://hughjonesd.github.io/huxtable/index.html)
 
 ### Websites
   * :book: [R Markdown: The Definitive Guide - Chapter 10 Websites](https://bookdown.org/yihui/rmarkdown/websites.html)
