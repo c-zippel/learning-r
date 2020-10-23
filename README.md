@@ -189,6 +189,7 @@ Key:
 ## R Markdown
   * :book: [R Markdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown/)
   * :notebook: [R Markdown Reference Guide](https://rstudio.com/wp-content/uploads/2015/03/rmarkdown-reference.pdf)
+  * :book: [R Markdown Cookbook](https://bookdown.org/yihui/rmarkdown-cookbook/)
   * :package: [knitr: elegant, flexible, and fast dynamic report generation with R](https://yihui.org/knitr/demo/manual/)
   * :package: [kableExtra: Construct complex table with knitr::kable() + %>%](https://haozhu233.github.io/kableExtra/)
   * :notebook: [Advanced R Markdown Workshop materials](https://arm.rbind.io/)
