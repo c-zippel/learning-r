@@ -23,9 +23,9 @@ Key:
   * :book: [Statistical Rethinking with brms, ggplot2, and the tidyverse](https://bookdown.org/ajkurz/Statistical_Rethinking_recoded/)
   * :book: [Practical Data Science for Stats](https://peerj.com/collections/50-practicaldatascistats/)
   * :book: [Glossary of Statistical Terms](http://hbiostat.org/doc/glossary.pdf)
-  * :book: [Causal Inference: The Mixtape](http://scunning.com/cunningham_mixtape.pdf)
   * :book: [ECON 305: Economics, Causality, and Analytics](http://nickchk.com/econ305.html)
   * :book: [Answering questions with data](https://crumplab.github.io/statistics/)
+  * :book: [Causal Inference: The Mixtape](https://mixtape.scunning.com/)
   
 ## Programming
 
