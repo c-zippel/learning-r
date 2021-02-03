@@ -62,6 +62,7 @@ Key:
   * :notebook: [Using tryCatch for robust R scripts](https://rsangole.netlify.com/post/try-catch/)
   * :package: [attempt: Tools for defensive programming in R](https://github.com/ColinFay/attempt)
   * :notebook: [match.arg: A weird function that can help you write better functions](https://alistaire.rbind.io/blog/match.arg/)
+  * :notebook: [Handling errors using purrr's possibly() and safely()](https://aosmith.rbind.io/2020/08/31/handling-errors/)
   
 
 ## Data Carpentry & Analysis
@@ -71,6 +72,7 @@ Key:
   * :notebook: [Row-oriented workflows in R with the tidyverse](https://github.com/jennybc/row-oriented-workflows)
   * :package: [stringr: Consistent wrappers for common string operations](https://stringr.tidyverse.org/reference/index.html)
   * :package: [glue: Small, fast, dependency free interpreted string literals.](https://github.com/tidyverse/glue)
+  * :package: [unglue: Extract matched substrings using a pattern, similar to what package glue does in reverse](https://github.com/moodymudskipper/unglue)
   * :package: [janitor: simple tools for data cleaning in R](http://sfirke.github.io/janitor/)
   * :package: [labelled: Manipulating labelled vectors in R](http://larmarange.github.io/labelled/)
 
@@ -112,6 +114,7 @@ Key:
 ### Missing Values
   * :book: [R-miss-tastic: Methods and references for managing missing data](https://rmisstastic.netlify.com/)
   * :package: [naniar: Tidy data structures, summaries, and visualisations for missing data](http://naniar.njtierney.com/)
+  * :notebook: [The many Flavours of Missing Values](https://www.njtierney.com/post/2020/09/17/missing-flavour/)
 
 ### Validation
   * :package: [validate: Professional data validation for the R environment](https://github.com/data-cleaning/validate)
@@ -149,6 +152,7 @@ Key:
   * :notebook: [The "Gold Standard" for Data Science Project Management](https://towardsdatascience.com/the-gold-standard-of-data-science-project-management-13d68c9e85d6)
   * :notebook: [usethis for reporting](https://sharla.party/posts/usethis-for-reporting/)
   * :package: [drake: A Pipeline Toolkit for Reproducible Computation at Scale](https://ropensci.github.io/drake/)
+  * :notebook: [Practical Data Science for Stats preprint collection](https://peerj.com/collections/50-practicaldatascistats/)
 
 ### Version Control & Collaboration
   * :notebook: [Excuse me, do you have a moment to talk about version control?](https://peerj.com/preprints/3159/)
@@ -272,6 +276,7 @@ Key:
   * :package: [patchwork: The Composer of ggplots](https://patchwork.data-imaginist.com/)
   * :package: [plotly: An interactive graphing library for R](https://plotly-r.com/)
   * :package: [magick: Advanced Image-Processing in R](https://docs.ropensci.org/magick/)
+  * :notebook: [Custom Discrete Color Scales for ggplot2](https://www.garrickadenbuie.com/blog/custom-discrete-color-scales-for-ggplot2/)
 
 
 ## Scraping
